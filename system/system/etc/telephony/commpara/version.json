@@ -1,0 +1,18 @@
+{
+    "call/CallRecoveryConfig.json":"20230701215501",
+    "call/fusioncall/fusion_call_param.cfg":"20240703193701",
+    "call/fusioncall/conf/conf.json":"20240703193701",
+    "call/fusioncall/conf/rootcert.pem":"20240703193701",
+    "power/high_temperature.json":"20230701215501",
+    "power/dynamic_ue_ability_switch.json":"20230701215501",
+    "power/apps_blklist.json":"20240430173001",
+    "power/apps_downloader.json":"20240430173001",
+    "power/apps_gameapp.json":"20240430173001",
+    "power/apps_speedtest.json":"20240430173001",
+    "power/close_nr.json":"20240430173001",
+    "power/speed_sensitive_app.json":"20240430173001",
+    "power/TxPowerCtrl.json":"20240430173001",
+    "power/Uid2r4r.json":"20240430173001",
+    "cellular_data/data_retry_strategy.json":"20241001000000",
+    "rollie/OperatorNameConfig.json":"20250313000000"
+}

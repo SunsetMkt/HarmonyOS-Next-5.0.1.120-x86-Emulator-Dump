@@ -1,0 +1,14 @@
+{
+  "isSupportZoomButton": "false",
+  "huaweiIdOobe": {
+    "cardTop": "56",
+    "cardContent": "100%",
+    "cardPadding": "16",
+    "cardBorderRadius": "32",
+    "cardBottom": "132",
+    "footerBotoom": "16",
+    "footerUpDownSize": "12",
+    "bindSheetHeight": "LARGE",
+    "bindSheetPreferType": "2"
+  }
+}

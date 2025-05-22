@@ -1,0 +1,20 @@
+{
+  "deepLinkReservedUri": [
+    {
+      "bundleName": "com.huawei.hmsapp.appgallery",
+      "uris": [
+        {
+          "scheme": "store"
+        }
+      ]
+    },
+    {
+      "bundleName": "com.huawei.hmos.files",
+      "uris": [
+        {
+          "scheme": "filemanager"
+        }
+      ]
+    }
+  ]
+}

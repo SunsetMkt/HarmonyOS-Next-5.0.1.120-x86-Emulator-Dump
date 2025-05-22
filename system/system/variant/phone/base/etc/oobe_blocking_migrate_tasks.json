@@ -1,0 +1,84 @@
+[
+  {
+    "strategy": "1",
+    "tasks": [
+      {
+        "targetModule": "com.huawei.hmos.security.privacycenter"
+      }
+    ]
+  },
+  {
+    "strategy": "1",
+    "tasks": [
+      {
+        "targetModule": "com.ohos.sceneboard"
+      },
+      {
+        "targetModule": "com.huawei.hmos.soundrecorder"
+      },
+      {
+        "targetModule": "com.ohos.medialibrary.medialibrarydata"
+      },
+      {
+        "targetModule": "com.huawei.hmos.filemanager"
+      },
+      {
+        "targetModule": "com.ohos.contactsdataability"
+      },
+      {
+        "targetModule": "3006"
+      },
+      {
+        "targetModule": "teecd"
+      },
+      {
+        "targetModule": "com.ohos.telephonydataability"
+      },
+      {
+        "targetModule": "com.ohos.mms"
+      },
+      {
+        "targetModule": "com.huawei.hmos.notepad"
+      },
+      {
+        "targetModule": "200"
+      },
+      {
+        "targetModule": "com.huawei.hms.huaweiid"
+      },
+      {
+        "targetModule": "6101"
+      },
+      {
+        "targetModule": "com.huawei.hmos.emergencycommunication"
+      },
+      {
+        "targetModule": "com.huawei.hmos.callrecorder"
+      },
+      {
+        "targetModule": "com.huawei.hmos.simcardmanagement"
+      },
+      {
+        "targetModule": "com.huawei.hmos.callsetting"
+      },
+      {
+        "targetModule": "com.ohos.callui"
+      },
+      {
+        "targetModule": "com.huawei.hmos.wallet"
+      },
+      {
+        "targetModule": "3510"
+      },
+      {
+        "targetModule": "8100"
+      },
+      {
+        "targetModule": "1190"
+      },
+      {
+        "targetModule": "4701"
+      }
+    ]
+  }
+]

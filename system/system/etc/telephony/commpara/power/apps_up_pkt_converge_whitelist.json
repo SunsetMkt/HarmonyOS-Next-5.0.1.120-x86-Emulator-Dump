@@ -1,0 +1,26 @@
+{
+    "AppList": [
+        "com.ss.hm.article.news",
+        "com.xingin.xhs_hos",
+        "com.huawei.hmos.browser",
+        "com.taobao.taobao4hmos",
+        "com.sina.weibo.stage",
+        "com.hexin.hmn.sjcg",
+        "com.tencent.wechat",
+        "com.tencent.videohm",
+        "com.qiyi.video.hmy",
+        "yylx.danmaku.bili",
+        "com.alipay.mobile.client",
+        "com.huawei.hmsapp.books",
+        "com.qimao.novel",
+        "com.ss.hm.ugc.aweme",
+        "com.kuaishou.hmapp",
+        "com.amap.hmapp",
+        "com.tencent.hm.qqmusic",
+        "com.qiyi.video.reader",
+        "com.baidu.baiduapp",
+        "com.tencent.mqq",
+        "com.netease.cloudmusic.hm",
+        "com.baidu.hmmap"
+    ]
+}

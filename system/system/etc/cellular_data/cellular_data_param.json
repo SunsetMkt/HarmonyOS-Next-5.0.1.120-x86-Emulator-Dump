@@ -1,0 +1,18 @@
+{
+    "home_url" : "https://www.baidu.com/",
+    "overseas_url" : "https://www.facebook.com/",
+    "hicure_app_lists" : [
+        "com.huawei.hmos.browser",
+        "com.huawei.hmsapp.books",
+        "com.huawei.hmsapp.gamecenter",
+        "com.huawei.hmsapp.music",
+        "com.huawei.hmsapp.himovie",
+        "com.amap.hmapp",
+        "com.tencent.hm.qqmusic",
+        "com.xingin.xhs_hos",
+        "com.zhihu.hmos",
+        "com.sina.weibo.stage",
+        "com.sankuai.hmeituan",
+        "com.ss.hm.ugc.aweme"
+    ]
+}

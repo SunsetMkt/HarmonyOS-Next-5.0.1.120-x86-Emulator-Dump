@@ -1,0 +1,8 @@
+{
+  "av_codec_config": {
+    "phone": 2560000,
+    "tablet": 2560000,
+    "2in1": 99990000,
+    "wearable": 99990000
+  }
+}

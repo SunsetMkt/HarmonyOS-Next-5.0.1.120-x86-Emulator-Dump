@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "KeyMap": [
+    {
+      "sourceTable": "device",
+      "sourceKey": "settings.display.hw_screen_freq",
+      "targetTable": "secure",
+      "targetKey": "hw_screen_freq"
+    },
+    {
+      "sourceTable": "device",
+      "sourceKey": "settings.power.smart_mode_status",
+      "targetTable": "global",
+      "targetKey": "low_power"
+    },
+    {
+      "sourceTable": "device",
+      "sourceKey": "settings.general.accelerometer_rotation_status",
+      "targetTable": "system",
+      "targetKey": "accelerometer_rotation"
+    },
+    {
+      "sourceTable": "device",
+      "sourceKey": "ringer_mode",
+      "targetTable": "global",
+      "targetKey": "mode_ringer"
+    },
+    {
+      "sourceTable": "device",
+      "sourceKey": "container_app_installed_status",
+      "targetTable": "global",
+      "targetKey": "anco_container_app_installed_status"
+    },
+    {
+      "sourceTable": "user",
+      "sourceKey": "hmos_fusion_privacyprotocol_enable",
+      "targetTable": "global",
+      "targetKey": "hmos_fusion_privacyprotocol_enable"
+    },
+    {
+      "sourceTable": "device",
+      "sourceKey": "settings.display.hw_thermal_game_fps",
+      "targetTable": "secure",
+      "targetKey": "hw_thermal_game_fps"
+    },
+    {
+      "sourceTable": "device",
+      "sourceKey": "nfc_payment_default_app",
+      "targetTable": "secure",
+      "targetKey": "nfc_payment_default_component"
+    }
+  ]
+}

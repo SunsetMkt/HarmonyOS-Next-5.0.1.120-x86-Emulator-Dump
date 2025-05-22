@@ -1,0 +1,343 @@
+{
+    "tags": [
+        "PowerStats"
+    ],
+    "domains": [
+        {
+            "domain": "BLUETOOTH_UE",
+            "include": [
+                "CHANGE_BT_SWITCH"
+            ]
+        },
+        {
+            "domain": "MULTIMEDIA",
+            "include": [
+                "PLAYER_COMMON_STATISTICS"
+            ]
+        },
+        {
+            "domain": "BT_SERVICE",
+            "include": [
+                "BLE_SWITCH_STATE",
+                "DISCOVERY_STATE",
+                "A2DP_CONNECTED_STATE",
+                "HFP_CONNECTED_STATE",
+                "GATT_SERVER_CONN_STATE",
+                "GATT_CLIENT_CONN_STATE",
+                "BLE_SCAN_START",
+                "BLE_SCAN_STOP",
+                "BLE_SCAN_DUTY_CYCLE"
+            ]
+        },
+        {
+            "domain": "BACKGROUND_TASK",
+            "include": [
+                "TRANSIENT_TASK_APPLY",
+                "TRANSIENT_TASK_CANCEL",
+                "CONTINUOUS_TASK_APPLY",
+                "CONTINUOUS_TASK_CANCEL",
+                "RESOURCE_MISUSE_RECORD"
+            ]
+        },
+        {
+            "domain": "WORKSCHEDULER",
+            "include": [
+                "WORK_ADD",
+                "WORK_REMOVE",
+                "WORK_START",
+                "WORK_STOP"
+            ]
+        },
+        {
+            "domain": "COMMUNICATION",
+            "include": [
+                "WIFI_STATE",
+                "WIFI_CONNECTION",
+                "WIFI_SCAN",
+                "WIFI_EVENT_RECEIVED",
+                "WIFI_AP_STATE",
+                "WIFI_P2P_STATE",
+                "WIFI_ABNORMAL_WAKE_UP",
+                "WIFI_BAND",
+                "WIFI_SIGNAL"
+            ]
+        },
+        {
+            "domain": "GRAPHIC",
+            "include": [
+                "EPS_LCD_FRAME_RATE",
+                "EPS_LCD_FREQ",
+                "FOSS_STATE",
+                "HGM_VOTER_INFO",
+                "RENDER_MEMORY_OVER_WARNING",
+                "RENDER_MEMORY_OVER_ERROR"
+            ]
+        },
+        {
+            "domain": "AUDIO",
+            "include": [
+                "DEVICE_CHANGE",
+                "VOLUME_CHANGE",
+                "STREAM_CHANGE",
+                "STREAM_STANDBY",
+                "HEADSET_CHANGE",
+                "SMARTPA_LOWPOWER",
+                "BG_SILENT_PLAYBACK",
+                "VOIP_MIC_BLK_REPORT"
+            ]
+        },
+        {
+            "domain": "CAMERA",
+            "include": [
+                "CAMERA_CONNECT",
+                "CAMERA_DISCONNECT",
+                "CAMERA_CONFIG",
+                "TORCH_STATE",
+                "FLASHLIGHT_ON",
+                "FLASHLIGHT_OFF",
+                "USER_BEHAVIOR"
+            ]
+        },
+        {
+            "domain": "CAMERA_HAL",
+            "include": [
+                "CAM_OHOS_CONFIG",
+                "CAM_OHOS_UNCONFIG",
+                "CAM_OHOS_FLASHLIGHT_STATE"
+            ]
+        },
+        {
+            "domain": "LOCATION",
+            "include": [
+                "SWITCH_STATE",
+                "GNSS_STATE"
+            ]
+        },
+        {
+            "domain": "POWER",
+            "include": [
+                "STATE",
+                "DO_SUSPEND",
+                "SCREEN_ON"
+            ]
+        },
+        {
+            "domain": "KERNEL_XPOWER",
+            "include": [
+                "APP_WAKEUP",
+                "BATTERY_ADJUST",
+                "BATTERY_SLEEP_CURRENT",
+                "EPS_LCD_FREQ",
+                "FOLD_STATE",
+                "FREEZING_FAILED",
+                "HAPTIC_DURATION",
+                "KERNEL_RESUME",
+                "KERNEL_SUSPEND",
+                "MODEM_PACKET_WAKEUP_TCP_V4",
+                "MODEM_PACKET_WAKEUP_UDP_V4",
+                "PACKET_WAKEUP",
+                "PACKET_WAKEUP_TCP_V4",
+                "PACKET_WAKEUP_UDP_V4",
+                "POSTURE_STATE",
+                "POWER_OFF_LEAK",
+                "RTC_WAKEUP",
+                "SUSPEND_ABORT",
+                "AP_WAKE_IRQ",
+                "SCREEN_ON_EVENT",
+                "SENSORHUB_WAKEUP",
+                "WAKE_STATUS",
+                "EPS_LCD_EL",
+                "TASK_HIGHLOAD"
+            ]
+        },
+        {
+            "domain": "CONTAINER",
+            "include": [
+                "CONTAINER_COMMAND"
+            ]
+        },
+        {
+            "domain": "WATCH_POWERTHER",
+            "include": [
+                "WATCH_MCU_COMPONENT_STATE",
+                "WATCH_MODULE_BATTERY_STATE",
+                "WATCH_FACE",
+                "WATCH_MCU_SCREEN_STATE",
+                "WATCH_SCENEBOARD_STATE",
+                "WATCH_NETWORK_SOCKET_EVENT",
+                "WATCH_POWER_MANAGER",
+                "WATCH_SPORTS_HEALTH"
+            ]
+        },
+        {
+            "domain": "CHR",
+            "include": [
+                "MODEM_LOG_EVENT"
+            ]
+        },
+        {
+            "domain": "LAUNCHER_APP",
+            "include": [
+                "FACE_UNLOCK"
+            ]
+        },
+        {
+            "domain": "WINDOWMANAGER",
+            "include": [
+                "DISPLAY_MODE",
+                "NOTIFY_FOLD_STATE_CHANGE",
+                "FOCUS_WINDOW"
+            ]
+        },
+        {
+            "domain": "FINGERPRINT",
+            "include": [
+                "FP_DUBAI_POWER_TEST"
+            ]
+        },
+        {
+            "domain": "TIME",
+            "include": [
+                "MISC_TIME_STATISTIC_REPORT"
+            ]
+        },
+        {
+            "domain": "FRAMEWORK",
+            "include": [
+                "ARK_STATS_DUMP",
+                "PROCESS_KILL"
+            ]
+        },
+        {
+            "domain": "KERNEL_VENDOR",
+            "include": [
+                "SLUB_OBJ",
+                "LOWMEM",
+                "CMA",
+                "FILE_STRUCT_OVER_LIMIT",
+                "VMA_LEAK",
+                "PROCESS_KILL",
+                "ASHMEM_PHYSICAL_SIZE_OVER_LIMIT"
+            ]
+        },
+        {
+            "domain": "AAFWK",
+            "include": [
+                "APP_BACKGROUND",
+                "APP_FOREGROUND"
+            ]
+        },
+        {
+            "domain": "BATTERY",
+            "include": [
+                "ADJUST",
+                "CHANGED"
+            ]
+        },
+        {
+            "domain": "DISPLAY",
+            "include": [
+                "AMBIENT_LIGHT",
+                "BACKLIGHT_DISCOUNT",
+                "BRIGHTNESS_NIT",
+                "SCREEN_STATE"
+            ]
+        },
+        {
+            "domain": "HIVIEWDFX",
+            "include": [
+                "XPOWER_STACKTRACE"
+            ]
+        },
+        {
+            "domain": "MULTIMODALINPUT",
+            "include": [
+                "LID_SWITCH"
+            ]
+        },
+        {
+            "domain": "NOTIFICATION",
+            "include": [
+                "ALARM_TRIGGER"
+            ]
+        },
+        {
+            "domain": "SENSOR",
+            "include": [
+                "DISABLE_SENSOR",
+                "ENABLE_SENSOR"
+            ]
+        },
+        {
+            "domain": "TELEPHONY_EXT",
+            "include": [
+                "CELLULAR_REQUEST"
+            ]
+        },
+        {
+            "domain": "NFC",
+            "include": [
+                "OPEN_AND_CLOSE"
+            ]
+        },
+        {
+            "domain": "NFC_EXT",
+            "include": [
+                "NFC_HOUR_ACTIVATED"
+            ]
+        },
+        {
+            "domain": "TELEPHONY",
+            "include": [
+                "NETWORK_REGISTER",
+                "SIGNAL_LEVEL"
+            ]
+        },
+        {
+            "domain": "AV_CODEC",
+            "include": [
+                "CODEC_START_INFO",
+                "CODEC_STOP_INFO"
+            ]
+        },
+        {
+            "domain": "VM_SERVICE",
+            "include": [
+                "SA_VM_SET_MEMORY"
+            ]
+        },
+        {
+            "domain": "RSS",
+            "include": [
+                "POWER_BRAIN_STATE",
+                "SUSPEND_STATE_CHANGE_ATTEMPT",
+                "THERMAL_CONTROL_EVENT"
+            ]
+        },
+        {
+            "domain": "HMOS_SVC_BROKER",
+            "include": [
+                "CONTAINER_LIFECYCLE_EVENT"
+            ]
+        },
+        {
+            "domain": "MULTIWINDOW_UE",
+            "include": [
+                "MID_GROUND_STATE"
+            ]
+        },
+        {
+            "domain": "HIVIEWCARE",
+            "include": [
+                "MAINTENANCE_MODE_STAGE_INFO"
+            ]
+        },
+        {
+            "domain": "PROJECTION_UE",
+            "include": [
+                "CONNECT_RESULT",
+                "DISCONNECT_RESULT"
+            ]
+        }
+    ]
+}

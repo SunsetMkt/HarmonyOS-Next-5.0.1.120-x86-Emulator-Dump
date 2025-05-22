@@ -1,0 +1,47 @@
+[
+  {
+    "bundleName": "com.huawei.hmos.settings",
+    "appIdentifier": "5765880207852919475",
+    "appId": "com.huawei.hmos.settings_BFigpIgzBXBatJdNLxLOoqz0LB5/3NRqwp5QuhHJGRadI+fqUZa8rrx8lfwAd/w8EWjbLVTqGax6REGtyDGy5KUr3dnL6uoRZ4yo5O3gq3TnIVEv6doQYzjR/RGfAR612w=="
+  },
+  {
+    "bundleName": "com.huawei.hmos.vassistant.launcher",
+    "appIdentifier": "5765880207855998521",
+    "appId": "com.huawei.hmos.vassistant.launcher_BG2kaB/tq5OB3946utUXmAWLp4fxb2RqSHUAakwwKpKiRmvy/4UPxDC3nmNQKEz33ccauSi380ohfPsOBgR7Ko3JXkfRax2C6HnzJtTSHtUT+6OvKP52fmCnGJe8W2Bfgg=="
+  },
+  {
+    "bundleName": "com.huawei.hmos.vassistant",
+    "appIdentifier": "1189827130565864320",
+    "appId": "com.huawei.hmos.vassistant_BJubBX8KlZnHaXMsM2O2GoC9lefd7IlJrQBZG69wVdlBuJYDULPoWPTrDl7Cr9OHFctzcf+LTtKe9AI+kFtb4cYRwvzZ0BPQaMWOOQ/zeUWNQRcBsxsqYTIN417dMQs6mA=="
+  },
+  {
+    "bundleName": "com.huawei.hmos.camera",
+    "appIdentifier": "5765880207854258995",
+    "appId": "com.huawei.hmos.camera_BCIGDVukYoy/QUwTiEq29Yw5kpBc+7lAL0KtFqAohcGnuvwV4J/bgXCJ5zvcRTV/IXyzewcMl+EWOs9PTNShGra6nyVYbpUjOKnGaAHR8bMN888r4I003WN+RC4SJh9aRA=="
+  },
+  {
+    "bundleName": "com.huawei.hmos.calculator",
+    "appIdentifier": "5765880207853537763",
+    "appId": "com.huawei.hmos.calculator_BCO8zLVMVYsHRDV43n+KWelBet/DExKWPaPPv3Ap9UWhh5a9NgxAMydlkPHRT5plNuNnq9YieQVLCruZpmGgEw1VE7p/ocwtMXIN1mNI4xvXIYcMY7hE5NtTldC+ytNqLA=="
+  },
+  {
+    "bundleName": "com.huawei.hmos.clock",
+    "appIdentifier": "5765880207853299641",
+    "appId": "com.huawei.hmos.clock_BHrwogg0GvTrniKxHqMRdY2N2V4YrKlhjxyKxHauEjj0sATDSmfkVojE85/uCXadqPxlkPGVXDItyQmmdPO9AtA="
+  },
+  {
+    "bundleName": "com.droi.tong",
+    "appIdentifier": "5765880207855132255",
+    "appId": "com.droi.tong_BJznmGiej8BWGdnfFgvjbl63pyyMTf28PfHagokQ9BOn1LHq9E0jfJnsY4J0Ds9RHMGN9RkTuTlGNS6ROKbPnPY="
+  },
+  {
+    "bundleName": "com.easy.hmos.abroad",
+    "appIdentifier": "5765880207855325039",
+    "appId": "com.easy.hmos.abroad_BF0YPd2M2ySkBofy0j2riVaJqIpove6BojrUmBor+HumvAgRAlAT8+AeY8tgp66Qdsc1oWZV2pazdq7rcD7DA2Y="
+  },
+  {
+    "bundleName": "com.huawei.hmos.onekeylock",
+    "appIdentifier": "5765880207855860509",
+    "appId": "com.huawei.hmos.onekeylock_BPANZn8b0EcAL07QzQbArx+Sf3BfW4nxZiImHx+eCVaK1RS0UbIofp9XGng4obHI6YJGKLtLB9IFK3yne02O/5M="
+  }
+]

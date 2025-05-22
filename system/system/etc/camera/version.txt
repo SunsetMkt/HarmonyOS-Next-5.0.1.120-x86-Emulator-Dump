@@ -1,0 +1,6 @@
+version=1.0.0.0
+type=camera
+subtype=generic
+compatibleVersion=1
+classify=1
+displayVersion=TZ.GENC.11.10.20.100

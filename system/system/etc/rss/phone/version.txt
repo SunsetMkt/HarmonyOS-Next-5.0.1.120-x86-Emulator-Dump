@@ -1,0 +1,6 @@
+version=1.19.10.100
+type=RSSCONFIG
+subtype=phone
+compatibleVersion=1
+classify=1
+displayVersion=RSS.GENC.1.19.10.100

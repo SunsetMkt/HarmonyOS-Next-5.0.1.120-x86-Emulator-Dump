@@ -1,0 +1,38 @@
+{
+  "white_list": {
+    "com.huawei.hmos.health": [
+      "com.huawei.hmos.health.core/CooperationServiceExtAbility"
+    ],
+    "com.huawei.hmsapp.intelligent": [
+      "com.ohos.sceneboard/IntelligentDataShareExtAbility"
+    ],
+    "com.huawei.hmos.betaclub": [
+      "com.huawei.hmos.findservice/DataShareExtAbility"
+    ],
+    "com.huawei.hmos.photos": [
+      "com.ohos.medialibrary.medialibrarydata/DataShareExtAbility"
+    ],
+    "com.ohos.mms": [
+      "com.ohos.telephonydataability/SmsMmsAbility",
+      "com.ohos.contactsdataability/ContactsDataAbility",
+      "com.huawei.hmos.callsetting/com.huawei.hmos.callsetting.SatelliteLocationDataShareAbility",
+      "com.huawei.hmos.numberidentity/NumberLocationAbility",
+      "com.huawei.hmos.numberidentity/NumberMarkAbility",
+      "com.huawei.hmos.smartmmsservice/ServiceExtAbility"
+    ],
+    "com.huawei.hmos.calendar": [
+      "com.huawei.hmos.calendardata/DataShareHighExtAbility"
+    ],
+    "com.huawei.hmos.spamshield": [
+      "com.ohos.telephonydataability/SmsMmsAbility",
+      "com.ohos.contactsdataability/ContactsDataAbility",
+      "com.ohos.contactsdataability/CallLogAbility"
+    ],
+    "com.huawei.hmos.hiviewpage": [
+      "com.huawei.hmos.hiviewx/HiViewXSwitchServiceExtensionAbility"
+    ]
+  },
+  "exposed_white_list": [
+    ""
+  ]
+}

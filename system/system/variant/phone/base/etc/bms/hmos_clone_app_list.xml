@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<values>
+  <string appId="" BundleName="com.tencent.wechat"/>
+  <string appId="" BundleName="com.tencent.mqq"/>
+  <string appId="" BundleName="com.tencent.wework.hmos"/>
+  <string appId="C5765880207853300119" BundleName="com.alipay.mobile.client"/>
+  <string appId="C5765880207854012043" BundleName="com.dingtalk.hmos"/>
+  <string appId="C5765880207853190259" BundleName="com.sankuai.hmeituan"/>
+  <string appId="C5765880207853243673" BundleName="com.sina.weibo.stage"/>
+  <string appId="C5765880207853570783" BundleName="com.ss.hm.ugc.aweme"/>
+  <string appId="C5765880207852917075" BundleName="com.xingin.xhs_hos"/>
+  <string appId="C5765880207853819885" BundleName="com.kuaishou.hmapp"/>
+  <string appId="C5765880207854392995" BundleName="com.taobao.idlefish4ohos"/>
+  <string appId="C5765880207854393123" BundleName="com.taobao.taobao4hmos"/>
+  <string appId="C5765880207853448221" BundleName="yylx.danmaku.bili"/>
+  <string appId="C5765880207854073269" BundleName="com.ss.hm.article.news"/>
+  <string appId="C5765880207854246411" BundleName="com.jd.hm.mall"/>
+  <string appId="C5765880207855421353" BundleName="com.xunmeng.pinduoduo.hos"/>
+</values>

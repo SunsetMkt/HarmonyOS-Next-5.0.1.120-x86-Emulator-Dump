@@ -1,0 +1,5 @@
+# Copyright (c) 2024 Huawei Device Co., Ltd.
+
+persist.radio.="radio:radio:775"
+radio.="radio:radio:775"
+const.radio.="radio:radio:444"

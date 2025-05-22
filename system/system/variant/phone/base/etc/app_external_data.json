@@ -1,0 +1,39 @@
+[
+  {
+    "dirs": [
+      {
+        "dir": "Sounds/CallRecord"
+      }
+    ],
+    "packageName": "com.huawei.phone.recorder"
+  },
+  {
+    "dirs": [
+      {
+        "dir": "Sounds",
+        "includeFiles": [
+          "*.m4a",
+          "*.amr",
+          "*.wav"
+        ]
+      }
+    ],
+    "packageName": "com.huawei.soundrecorder"
+  },
+  {
+    "dirs": [
+      {
+        "dir": "Meetime"
+      }
+    ],
+    "packageName": "com.huawei.meetime"
+  },
+  {
+    "dirs": [
+      {
+        "dir": "HuaweiWallet"
+      }
+    ],
+    "packageName": "com.huawei.wallet"
+  }
+]

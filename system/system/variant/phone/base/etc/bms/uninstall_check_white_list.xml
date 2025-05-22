@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<values>
+  <string bundleName="com.huawei.hmos.wallet" abilityName="UninstallWalletSrvExtAbility" code="1" uriStr="datashare:///com.huawei.hmos.wallet.LocalCardStatusShare"/>
+</values>

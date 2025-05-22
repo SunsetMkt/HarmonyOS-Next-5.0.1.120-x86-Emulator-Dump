@@ -1,0 +1,14 @@
+{
+    "satellite_supported_version": {
+        "value":"202410312102"
+    },
+    "satellite_supported_regions": {
+        "value":"[CN,HK,LA]"
+    },
+    "satellite_supported_carriers_mccmnc": {
+        "value":"[46003,46005,46011,46059,46001,46009,45431,45507,45400,45419,45403,45404,45406,45415]"
+    },
+    "satellite_supported_carriers_mcc": {
+        "value":"[460,454,455,457,450,525,456,502,515,520]"
+    }    
+}

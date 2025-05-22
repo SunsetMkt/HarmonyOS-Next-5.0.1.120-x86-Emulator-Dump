@@ -1,0 +1,77 @@
+apl=system_core domain=system_core_hap type=system_core_hap_data_file
+apl=system_basic domain=system_basic_hap type=system_basic_hap_data_file
+apl=normal domain=normal_hap type=normal_hap_data_file
+apl=normal debuggable=true domain=debug_hap type=debug_hap_data_file
+apl=normal name=com.ohos.formrenderservice domain=formrenderservice_hap type=formrenderservice_hap_data_file
+apl=normal name=com.ohos.medialibrary.medialibrarydata domain=medialibrary_hap type=medialibrary_hap_data_file
+apl=normal name=com.ohos.medialibrary.medialibrarydata:fileAccess domain=medialibrary_hap type=medialibrary_hap_data_file
+apl=normal name=com.ohos.medialibrary.medialibrarydata:backup domain=medialibrary_hap type=medialibrary_hap_data_file
+apl=normal extra=input_isolate domain=input_isolate_hap type=normal_hap_data_file
+apl=normal debuggable=true extra=input_isolate domain=input_isolate_debug_hap type=normal_hap_data_file
+apl=normal name=com.ohos.ringtonelibrary.ringtonelibrarydata domain=ringtonelibrary_hap type=ringtonelibrary_hap_data_file
+apl=normal name=com.ohos.ringtonelibrary.ringtonelibrarydata:backup domain=ringtonelibrary_hap type=ringtonelibrary_hap_data_file
+apl=normal name=com.ohos.permissionmanager domain=permissionmanager_hap type=permissionmanager_hap_data_file
+apl=normal name=com.ohos.dlpmanager domain=dlpmanager_hap type=normal_hap_data_file
+apl=normal extra=dlp_sandbox domain=dlp_sandbox_hap type=dlp_sandbox_hap_data_file
+apl=normal name=com.huawei.hmos.betaclub domain=betaclub_hap type=betaclub_hap_data_file
+apl=normal name=com.huawei.hmos.email domain=email_hap type=email_hap_data_file
+apl=normal name=com.huawei.hmos.databackup domain=databackup_hap type=databackup_hap_data_file
+ 
+apl=normal name=com.huawei.hms.analyticsservice domain=analytics_service_hap type=analytics_service_hap_data_file
+apl=normal name=com.huawei.hmos.filemanager domain=filemanager_hap type=filemanager_hap_data_file
+apl=normal name=com.huawei.hmos.files domain=filemanager_hap type=filemanager_hap_data_file
+apl=normal name=com.huawei.hmos.filemanager:sys/commonUI domain=filemanager_hap type=filemanager_hap_data_file
+apl=normal name=com.huawei.hmos.filemanager:sysPicker/filePicker domain=filemanager_hap type=filemanager_hap_data_file
+apl=normal name=com.huawei.hmos.filemanager:thumbnail domain=filemanager_hap type=filemanager_hap_data_file
+apl=normal name=com.huawei.hmos.findservice domain=findservice_hap type=findservice_hap_data_file
+apl=normal name=com.huawei.hmos.findservice:remoteLocation domain=findservice_hap type=findservice_hap_data_file
+apl=normal name=com.huawei.hmos.findservice:staticSubscriber domain=findservice_hap type=findservice_hap_data_file
+apl=normal name=com.huawei.hmos.dataclone domain=dataclone_hap type=dataclone_hap_data_file
+apl=normal name=com.huawei.hmos.dataclone:sysDialog/common domain=dataclone_hap type=dataclone_hap_data_file
+apl=normal name=com.huawei.hmos.dataclone:sys/commonUI domain=dataclone_hap type=dataclone_hap_data_file
+apl=normal name=com.huawei.hmsapp.adminprovisioning domain=adminprovisioning_hap type=adminprovisioning_hap_data_file
+apl=normal name=com.huawei.hmos.simtoolkits domain=hwsimtoolkits_hap type=hwsimtoolkits_hap_data_file
+ 
+apl=normal name=com.huawei.batterycare domain=batterycare_hap type=batterycare_hap_data_file
+apl=normal name=com.huawei.hmos.hisuite domain=hisuite_hap type=hisuite_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewcare domain=hiviewcare_hap type=hiviewcare_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewcare:staticSubscriber domain=hiviewcare_hap type=hiviewcare_hap_data_file
+apl=normal name=com.huawei.hmsapp.samplemanagement domain=samplemanagement_hap type=samplemanagement_hap_data_file
+ 
+apl=normal name=com.huawei.hmos.mmitest domain=mmitest_hap type=mmitest_hap_data_file
+apl=normal name=com.huawei.hmos.mmitest:staticSubscriber domain=mmitest_hap type=mmitest_hap_data_file
+apl=normal name=com.huawei.hmos.projectmenu domain=projectmenu_hap type=projectmenu_hap_data_file
+ 
+apl=normal name=com.huawei.hmos.hiviewx domain=hiview_hap type=hiview_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewx:sys/commonUI domain=hiview_hap type=hiview_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewx:staticSubscriber domain=hiview_hap type=hiview_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewx:workScheduler domain=hiview_hap type=hiview_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewpage domain=hiview_hap type=hiview_hap_data_file
+apl=normal name=com.huawei.hmos.hiviewpage:sys/commonUI domain=hiview_hap type=hiview_hap_data_file
+apl=normal name=com.huawei.hmos.meetimeservice domain=meetimeservice_hap type=meetimeservice_hap_data_file
+apl=normal name=com.huawei.hmos.meetimeservice:ui domain=meetimeservice_hap type=meetimeservice_hap_data_file
+apl=normal name=com.huawei.hmos.meetimeservice:remoteNotification domain=meetimeservice_hap type=meetimeservice_hap_data_file
+apl=normal name=com.huawei.hmos.meetimeservice:workScheduler domain=meetimeservice_hap type=meetimeservice_hap_data_file
+ 
+apl=normal name=com.huawei.hmos.camera domain=com_huawei_hmos_camera_hap type=com_huawei_hmos_camera_hap_data_file
+ 
+apl=normal name=com.huawei.hmos.photos domain=photos_hap type=photos_hap_data_file
+apl=normal name=com.huawei.hmos.dlpcredmgr domain=dlpcredmgr_hap type=dlpcredmgr_hap_data_file
+apl=normal name=com.huawei.hmos.privatespacemanager domain=privatespacemanager_hap type=privatespacemanager_hap_data_file
+apl=normal name=com.huawei.hmos.privatespacemanager:sys/commonUI domain=privatespacemanager_hap type=privatespacemanager_hap_data_file
+ 
+apl=system_basic name=com.huawei.hmos.settings domain=settings_hap type=system_basic_hap_data_file
+apl=normal name=com.huawei.hmos.motiongesture domain=motiongesture_hap type=motiongesture_hap_data_file
+apl=normal name=com.huawei.hmos.motiongesture:sys/commonUI domain=motiongesture_hap type=motiongesture_hap_data_file
+apl=normal name=com.huawei.hmos.quickpay domain=quickpay_hap type=quickpay_hap_data_file
+apl=normal name=com.huawei.hmos.quickpay:sys/commonUI domain=quickpay_hap type=quickpay_hap_data_file
+apl=normal name=com.huawei.hmos.simcardmanagement domain=simcardmanagement_hap type=simcardmanagement_hap_data_file
+apl=normal name=com.huawei.hmos.hwstartupguide domain=hwstartupguide_hap type=hwstartupguide_hap_data_file
+apl=normal name=com.huawei.hmos.watch.factoryota domain=factory_ota_hap type=factory_ota_hap_data_file
+apl=normal name=com.huawei.hmos.migrateclient domain=migrate_client_hap type=migrate_client_hap_data_file
+apl=normal name=com.huawei.hmos.ouc domain=ouc_hap type=ouc_hap_data_file
+apl=normal name=com.huawei.hmos.ouc:sys/commonUI domain=ouc_hap type=ouc_hap_data_file
+apl=normal name=com.huawei.hmos.useriam.idmwidget domain=idmwidget_hap type=idmwidget_hap_data_file
+apl=normal name=com.huawei.hmos.useriam.idmwidget:sys/commonUI domain=idmwidget_hap type=idmwidget_hap_data_file
+apl=system_basic name=com.ohos.sceneboard domain=sceneboard_hap type=sceneboard_hap_data_file
+apl=system_basic name=com.ohos.sceneboard:backup domain=sceneboard_hap type=sceneboard_hap_data_file

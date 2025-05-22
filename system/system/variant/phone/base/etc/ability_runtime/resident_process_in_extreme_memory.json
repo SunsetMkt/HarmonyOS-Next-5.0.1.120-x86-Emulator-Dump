@@ -1,0 +1,9 @@
+{
+    "residentProcessInExtremeMemory":
+    [
+        {
+            "bundleName": "com.huawei.hmsapp.samplemanagement",
+            "abilityName": "MspesService"
+        }
+    ]
+}

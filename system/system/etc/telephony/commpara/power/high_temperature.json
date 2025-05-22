@@ -1,0 +1,14 @@
+{
+    "highTempLimitSwitch":1,
+    "AppList": [
+        "com.tencent.wechat",
+        "com.taobao.taobao4hmos",
+        "com.baidu.baiduapp",
+        "com.xingin.xhs_hos",
+        "com.qiyi.video.hmy",
+        "com.amap.hmapp",
+        "com.sina.weibo.stage",
+        "com.xunmeng.pinduoduo.hos",
+        "com.tencent.jkchess"
+    ]
+}

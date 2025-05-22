@@ -1,0 +1,44 @@
+{
+  "uiextension": [
+    {
+      "type": "share",
+      "typePicker": "sysPicker/share"
+    },
+    {
+      "type": "photoPicker",
+      "typePicker": "sysPicker/photoPicker"
+    },
+    {
+      "type": "navigation",
+      "typePicker": "sysPicker/navigation"
+    },
+    {
+      "type": "finance",
+      "typePicker": "sysPicker/appSelector"
+    },
+    {
+      "type": "filePicker",
+      "typePicker": "sysPicker/filePicker"
+    },
+    {
+      "type": "photoEditor",
+      "typePicker": "sysPicker/photoEditor"
+    },
+    {
+      "type": "audioPicker",
+      "typePicker": "sysPicker/audioPicker"
+    },
+    {
+      "type": "mail",
+      "typePicker": "sysPicker/appSelector"
+    },
+    {
+      "type": "flight",
+      "typePicker": "sysPicker/appSelector"
+    },
+    {
+      "type": "express",
+      "typePicker": "sysPicker/appSelector"
+    }
+  ]
+}

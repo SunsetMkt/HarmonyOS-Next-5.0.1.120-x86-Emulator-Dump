@@ -1,0 +1,144 @@
+{
+    "dlpPermissions": [
+        {
+            "name": "ohos.permission.USE_BLUETOOTH",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.USE_CLOUD_COMMON_SERVICE",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.USE_CLOUD_BACKUP_SERVICE",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.USE_CLOUD_DRIVE_SERVICE",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.WRITE_WHOLE_CALENDAR",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.ACCESS_NEARLINK",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.MANAGE_NEARLINK",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.MANAGE_BLUETOOTH",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.WRITE_PRIVACY_PUSH_DATA",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.READ_WRITE_DOWNLOAD_DIRECTORY",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.READ_WRITE_DESKTOP_DIRECTORY",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.READ_WRITE_DOCUMENTS_DIRECTORY",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.CLOUDFILE_SYNC_MANAGER",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.CLOUDFILE_SYNC",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.WRITE_AUDIO",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.WRITE_DOCUMENT",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.WRITE_IMAGEVIDEO",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.PROXY_AUTHORIZATION_URI",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.ACCESS_BLUETOOTH",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.DISCOVER_BLUETOOTH",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.FILE_ACCESS_MANAGER",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.INTERNET",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.MANAGE_WIFI_HOTSPOT",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.RECEIVE_MMS",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.RECEIVE_SMS",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.RECEIVE_WAP_MESSAGES",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.SEND_MESSAGES",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.SET_WIFI_CONFIG",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.SET_WIFI_INFO",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.WRITE_MEDIA",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.DISTRIBUTED_DATASYNC",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.NFC_TAG",
+            "dlpGrantRange": "none"
+        },
+        {
+            "name": "ohos.permission.CAPTURE_SCREEN",
+            "dlpGrantRange": "full_control"
+        },
+        {
+            "name": "ohos.permission.PRINT",
+            "dlpGrantRange": "full_control"
+        },
+        {
+            "name": "ohos.permission.MANAGE_PRINT_JOB",
+            "dlpGrantRange": "full_control"
+        }
+    ]
+}

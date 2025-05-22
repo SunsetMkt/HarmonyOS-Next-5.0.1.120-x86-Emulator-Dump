@@ -1,0 +1,7 @@
+{
+    "config_platform_url": "https://configserver.platform.hicloud.com",
+    "hota_query_url": "https://query.hicloud.com",
+    "ab_installer_timeout": 1800,
+    "moduleLibPath": "/system/lib64/updateext/libdupdate_engine_service.z.so",
+    "hianalytics_collectUrl": "https://metrics.dt.dbankcloud.cn:443"
+}

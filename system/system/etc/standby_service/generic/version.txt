@@ -1,0 +1,6 @@
+version=1.19.10.100
+type=PGCONFIG
+subtype=generic
+compatibleVersion=1
+classify=1
+displayVersion=PG.GENC.1.19.10.100

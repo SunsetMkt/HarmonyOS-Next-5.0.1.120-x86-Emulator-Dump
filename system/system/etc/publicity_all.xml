@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packageList>
+	<packageInfo author="华为技术有限公司" feature="单框架-悬浮导航（含三键导航）" label="FloatingNavigation" package="com.huawei.hms.floatingnavigation">
+	</packageInfo>
+	<packageInfo author="华为终端有限公司" feature="MediaPlaybackController，媒体播控中心。" package="com.huawei.hmos.mediacontroller" label="com.huawei.hmos.mediacontroller">
+	</packageInfo>
+	<packageInfo author="华为终端有限公司" feature="PAFService 云基础服务" package="com.huawei.hms.pafservice" label="com.huawei.hms.pafservice">
+	</packageInfo>
+	<packageInfo author="华为终端有限公司" feature="一键快速分享文件、图片、apk等任意文件给周边开启该功能的设备。" package="com.huawei.hmos.instantshare" label="com.huawei.hmos.instantshare">
+	</packageInfo>
+	<packageInfo author="华为终端有限公司" feature="保存日历数据。" package="com.huawei.hmos.calendardata" label="com.huawei.hmos.calendardata">
+	</packageInfo>
+	<packageInfo author="华为终端有限公司" feature="地图服务，为开发者提供基础地图能力。" package="com.huawei.hms.mapservice" label="com.huawei.hms.mapservice">
+	</packageInfo>
+	<packageInfo author="华为终端有限公司" feature="本服务使用蓝牙、WLAN功能，开启本地录音、录屏，以提供投屏相关服务。" package="com.huawei.hmos.huaweicast" label="com.huawei.hmos.huaweicast">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.arkwebcore" feature="ArkWeb 内核，支撑浏览器与三方应用的网页加载、浏览、视频播放等功能体验" author="华为终端有限公司" label="com.huawei.hmos.arkwebcore">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.asde" label="asde" feature="基于地理位置、设备事件、业务事件融合感知用户场景，推送服务内容。" author="华为软件技术有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.filemanager" feature="文件管理是一个高效管理本地和云盘文件的管理器。通过文件管理器用户可以在本地、云盘中浏览、复制、删除、重命名等" author="华为终端有限公司" label="com.huawei.hmos.filemanager">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.files" feature="文件管理是一个高效管理本地和云盘文件的管理器。通过文件管理器用户可以在本地、云盘中浏览、复制、删除、重命名等" author="华为终端有限公司" label="com.huawei.hmos.files">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.health.core" feature="为您提供运动指导和健康服务的应用。" author="华为软件技术有限公司" label="com.huawei.hmos.health.core">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.hipreview" feature="提供系统级文件预览能力，支持多种文件类型的预览功能。" author="华为终端有限公司" label="com.huawei.hmos.hipreview">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.hiviewx" lable="HiViewX" feature="为系统提供维测日志搜集上传能力。" author="华为终端有限公司。" label="com.huawei.hmos.hiviewx">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.inputmethod" feature="小艺输入法是由华为开发的一款免费的键盘应用程序，可让您快速，准确，有趣地打字。" author="华为软件技术有限公司" label="com.huawei.hmos.inputmethod">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.location" label="LocationEnhanceService" feature="提供系统定位增强能力。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.migrateclient" label="升级数据迁移" feature="支持调用数据迁移服务SA和迁移进度显示。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.ouc" label="软件更新" feature="提供系统升级服务。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.photos" feature="华为图库，提供显示图片、视频功能。" author="华为终端有限公司" use-permission="华为图库，提供显示图片、视频功能。" label="com.huawei.hmos.photos">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.projectmenu" label="工程菜单" feature="提供后台设置、单板信息等查询能力。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.screenrecorder" label="录屏" feature="提供录屏功能。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.screenshot" label="截屏" feature="提供截屏功能。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.security.privacycenter" feature="提供隐私权限管理业务，显性化隐私安全能力，重构用户可感知的隐私安全特性，让用户更安心。" author="华为终端有限公司" label="com.huawei.hmos.security.privacycenter">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.settings" label="设置" feature="提供系统应用设置项菜单。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.superhub" label="中转站" feature="超级拖拽中转站。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.themedataservice" feature="承载壁纸服务需要的数据管理与权限管理，提供运行时服务。" author="华为终端有限公司" label="com.huawei.hmos.themedataservice">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmos.useriam.idmwidget" feature="支持华为特有的鸿蒙风格的用户凭据录入界面。" author="华为终端有限公司" label="com.huawei.hmos.useriam.idmwidget">
+	</packageInfo>
+	<packageInfo package="com.huawei.hmsapp.intelligent" feature="您身边“无微不智”的个人助理，为你提供贴心、精准、便捷的场景化服务，守护您的每个「今天」" author="华为终端有限公司" label="com.huawei.hmsapp.intelligent">
+	</packageInfo>
+	<packageInfo package="com.huawei.hms.pushservice" feature="提供消息推送服务。" author="华为软件技术有限公司" label="com.huawei.hms.pushservice">
+	</packageInfo>
+	<packageInfo package="com.huawei.msdp.antimisoperation" feature="提供防误触界面功能。" author="华为终端有限公司" label="com.huawei.msdp.antimisoperation">
+	</packageInfo>
+	<packageInfo package="com.ohos.amsdialog" label="元能力系统弹框" feature="在隐式拉起、断言错误等场景中提供系统弹框。" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.backgroundtaskmgr.resources" label="长时任务通知提示资源" feature="应用申请长时任务后，系统会弹出通知，提醒用户有长时任务正在后台运行" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.certmanager" feature="为用户提供可信证书全生命周期管理。" author="华为终端有限公司" label="com.ohos.certmanager">
+	</packageInfo>
+	<packageInfo package="com.ohos.devicemanagerui" label="devicemanagerui" feature="提供PIN码认证的授权提示、PIN码显示、PIN码输入等弹框" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.dlpmanager" label="数据防泄漏管理应用" feature="数据防泄漏管理应用" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.formrenderservice" label="FormRenderService" feature="提供ArkTs服务卡片统一渲染服务。" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.inputmethodchoosedialog" label="输入法框架系统弹窗" feature="提供输入法框架系统弹窗功能。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.ohos.medialibrary.medialibrarydata" label="媒体库" feature="提供管理相册和媒体文件的能力，包括创建相册以及访问、修改相册中的媒体信息功能。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.ohos.notificationdialog" label="EnableNotificationDialog" feature="提供通知使能功能" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.ohos.pasteboarddialog" label="pasteboarddialog" feature="提供管理系统剪贴板的能力，为系统复制、粘贴功能提供支持。系统剪切板支持包文本、超本文、URIs等内容操作" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.ohos.permissionmanager" label="权限管理" feature="运行时权限弹框和setting权限管理。" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.powerdialog" label="powermgr" feature="提供关机弹窗功能" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.ringtonelibrary.ringtonelibrarydata" label="铃音库" feature="管理铃音文件、自动扫描系统铃音、为系统api提供铃音增删改查功能。" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.sceneboard" label="SceneBoard" feature="提供Scene生命周期管理、任务管理、Launcher、SystemUI、壁纸、锁屏等功能。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.ohos.settingsdata" label="设置数据能力" feature="设置数据能力。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="com.ohos.UserFile.ExternalFileManager" label="外置存储数据管理" feature="外置存储数据管理。" author="OpenHarmony Team">
+	</packageInfo>
+	<packageInfo package="com.ohos.useriam.authwidget" feature="在统一用户认证框架处理用户认证请求时，提供用户认证交互界面。" author="华为终端有限公司" label="com.ohos.useriam.authwidget">
+	</packageInfo>
+	<packageInfo package="com.usb.right" label="USB服务弹窗" feature="提供USB功能选择弹窗、USB授权弹窗等功能。" author="华为终端有限公司">
+	</packageInfo>
+	<packageInfo package="ohos.global.systemres" label="System" feature="提供系统级别的字符串、图片、颜色值等资源" author="华为终端有限公司">
+	</packageInfo>
+</packageList>

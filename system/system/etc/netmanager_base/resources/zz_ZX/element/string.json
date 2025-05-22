@@ -1,0 +1,40 @@
+{
+    "string":[
+        {
+            "name":"netstats_excess_daymark_notofication_title",
+            "value":"[TS_1010604]_Over daily mark"
+        },
+        {
+            "name":"netstats_month_limit_message",
+            "value":"[TS_1010603]_Monthly data limit reached (%s)"
+        },
+        {
+            "name":"netstats_excess_monthmark_notofication_title",
+            "value":"[TS_1010600]_Over monthly limit"
+        },
+        {
+            "name":"netstats_daily_notify_message",
+            "value":"[TS_1010602]_Data used today at limit (%s)"
+        },
+        {
+            "name":"netstats_excess_monthmark_notofication_title_sub",
+            "value":"[TS_1010597]_SIM %d data usage alert"
+        },
+        {
+            "name":"netstats_excess_monthlimit_notofication_title_sub",
+            "value":"[TS_1010598]_SIM %d data usage alert"
+        },
+        {
+            "name":"netstats_excess_daymark_notofication_title_sub",
+            "value":"[TS_1010601]_SIM %d data usage alert"
+        },
+        {
+            "name":"netstats_month_notify_message",
+            "value":"[TS_1010599]_Monthly data usage at %s of limit"
+        },
+        {
+            "name":"netstats_excess_monthlimit_notofication_title",
+            "value":"[TS_1010605]_Over monthly limit"
+        }
+    ]
+}

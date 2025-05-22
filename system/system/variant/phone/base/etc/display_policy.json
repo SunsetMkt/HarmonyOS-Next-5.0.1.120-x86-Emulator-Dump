@@ -1,0 +1,150 @@
+[
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.security.privacycenter",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.spamshield",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.ohos.medialibrary.medialibrarydata",
+    "needDisplay": "1",
+    "displayBundleName": "com.huawei.hmos.photos"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.calendardata",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.ohos.telephonydataability",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "0",
+    "targetModule": "com.huawei.hmsapp.hisearch",
+    "needDisplay": "1",
+    "displayBundleName": "com.huawei.hmsapp.hisearch",
+    "displayModuleNames": [
+      "phone"
+    ]
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.ohos.sceneboard",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hms.huaweiid",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.callsetting",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.emergencycommunication",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.simcardmanagement",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.screenreader",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.callrecorder",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.meetimeservice",
+    "needDisplay": "1",
+    "displayBundleName": "com.huawei.hmos.meetime"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.meetime",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.ohos.contactsdataability",
+    "needDisplay": "1",
+    "displayBundleName": "com.ohos.contacts"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.passwordvault",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmsapp.appgallery",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.aidataservice",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.batterycare",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.inputmethod",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.health.core",
+    "needDisplay": "1",
+    "displayBundleName": "com.huawei.hmos.health"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.health",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.ohos.ringtonelibrary.ringtonelibrarydata",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hms.adsservice",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.hwquickaccessmenu",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.databackup",
+    "needDisplay": "0"
+  },
+  {
+    "targetType": "1",
+    "targetModule": "com.huawei.hmos.camera",
+    "needDisplay": "0"
+  }
+]

@@ -1,0 +1,19 @@
+{
+    "process": "audio_server",
+    "systemability": [
+        {
+            "name": 3009,
+            "libpath": "libaudio_policy_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        },
+        {
+            "name": 3001,
+            "libpath": "libaudio_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        }
+    ]
+}

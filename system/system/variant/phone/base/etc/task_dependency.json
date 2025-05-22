@@ -1,0 +1,83 @@
+[
+  {
+    "targetModule": "com.huawei.hms.huaweiid",
+    "depend": [
+      {
+        "targetModule": "200"
+      }
+    ]
+  },
+  {
+    "targetModule": "200_2",
+    "depend": [
+      {
+        "targetModule": "com.huawei.hms.huaweiid"
+      },
+      {
+        "targetModule": "65920"
+      },
+      {
+        "targetModule": "com.huawei.hmos.clock"
+      },
+      {
+        "targetModule": "4011"
+      }
+    ]
+  },
+  {
+    "targetModule": "com.huawei.hmos.filemanager",
+    "depend": [
+      {
+        "targetModule": "com.ohos.medialibrary.medialibrarydata"
+      }
+    ]
+  },
+  {
+    "targetModule": "8100",
+    "depend": [
+      {
+        "targetModule": "3510"
+      }
+    ]
+  },
+  {
+    "targetModule": "3510",
+    "depend": [
+      {
+        "targetModule": "teecd"
+      }
+    ]
+  },
+  {
+    "targetModule": "com.huawei.hmos.meetime",
+    "depend": [
+      {
+        "targetModule": "com.huawei.hmos.meetimeservice"
+      }
+    ]
+  },
+  {
+    "targetModule": "4701",
+    "depend": [
+      {
+        "targetModule": "8100"
+      }
+    ]
+  },
+  {
+    "targetModule": "4011",
+    "depend": [
+      {
+        "targetModule": "8100"
+      }
+    ]
+  },
+  {
+    "targetModule": "com.huawei.hmos.health",
+    "depend": [
+      {
+        "targetModule": "com.huawei.hmos.health.core"
+      }
+    ]
+  }
+]

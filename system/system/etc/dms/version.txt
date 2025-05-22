@@ -1,0 +1,6 @@
+version=1.0.0.0
+type=dms
+subtype=generic
+compatibleVersion=1
+classify=1
+displayVersion=DMS.GEN.1.0.0.0

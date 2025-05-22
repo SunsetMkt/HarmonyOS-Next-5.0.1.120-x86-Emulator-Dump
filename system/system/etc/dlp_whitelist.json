@@ -1,0 +1,14 @@
+{
+    "support_txt_dlp" : [
+        "com.ohos.dlpmanager", "com.huawei.hmos.hipreview", "com.huawei.hmsapp.books", "com.huawei.it.wps", "cn.wps.mobileoffice.hap.ent.huawei"
+    ],
+    "support_pdf_dlp" : [
+        "com.ohos.dlpmanager", "com.huawei.hmos.hipreview", "com.huawei.it.wps", "cn.wps.mobileoffice.hap.ent.huawei"
+    ],
+    "support_office_dlp" : [
+        "com.ohos.dlpmanager", "com.huawei.hmos.hipreview", "com.shimo.desktop.main", "com.huawei.it.wps", "cn.wps.office.hap.ent.huawei", "cn.wps.mobileoffice.hap.ent.huawei"
+    ],
+    "default" : [
+        "MainAbility", "com.huawei.hmos.hipreview"
+    ]
+}

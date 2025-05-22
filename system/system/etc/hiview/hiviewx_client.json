@@ -1,0 +1,111 @@
+{
+  "configurationInfo": {
+    "configurationVersion": 20241129000
+  },
+  "beta": {
+    "systemConfig": {
+      "mainWorkSchedulerPeriod": 3600000,
+      "reUploadWorkSchedulerPeriod": 7200000
+    },
+    "eventUploader": [
+      {
+        "name": "oemEventUploader",
+        "path": "/data/storage/el2/log/sys_event_export",
+        "dailyNetworkTraffic": {
+          "wifi": 50,
+          "cellular": 5
+        }
+      }
+    ],
+    "logUploader": [
+      {
+        "name": "oemFaultLogUploader",
+        "logType": "FAULTLOG",
+        "packType": "101",
+        "copyMode": "move",
+        "dailyNetworkTraffic": {
+          "wifi": 1536,
+          "cellular": 5
+        }
+      },
+      {
+        "name": "oemHiLogUploader",
+        "logType": "HILOG",
+        "packType": "100",
+        "copyMode": "copy",
+        "dailyNetworkTraffic": {
+          "wifi": 1024,
+          "cellular": 0
+        }
+      },
+      {
+        "name": "oemTraceUploader",
+        "logType": "TRACE",
+        "packType": "102",
+        "copyMode": "move",
+        "dailyNetworkTraffic": {
+          "wifi": 1024,
+          "cellular": 0
+        }
+      },
+      {
+        "name": "oemDictUploader",
+        "logType": "HILOG",
+        "packType": "103",
+        "copyMode": "copy",
+        "dailyNetworkTraffic": {
+          "wifi": 100,
+          "cellular": 0
+        }
+      },
+      {
+        "name": "containerUploader",
+        "logType": "CONTAINER",
+        "packType": "999",
+        "copyMode": "move",
+        "dailyNetworkTraffic": {
+          "wifi": 1024,
+          "cellular": 3
+        }
+      }
+    ]
+  },
+  "commercial": {
+    "systemConfig": {
+      "mainWorkSchedulerPeriod": 10800000,
+      "reUploadWorkSchedulerPeriod": 7200000
+    },
+    "eventUploader": [
+      {
+        "name": "oemEventUploader",
+        "path": "/data/storage/el2/log/sys_event_export",
+        "dailyNetworkTraffic": {
+          "wifi": 30,
+          "cellular": 1.67
+        }
+      }
+    ],
+    "logUploader": [
+      {
+        "name": "containerUploader",
+        "logType": "ANCO_LOG_COMMERCIAL",
+        "packType": "999",
+        "copyMode": "move",
+        "dailyNetworkTraffic": {
+          "wifi": 2,
+          "cellular": 0.33
+        }
+      },
+      {
+        "name": "oemFaultLogUploader",
+        "logType": "FAULTLOG",
+        "packType": "101",
+        "copyMode": "move",
+        "dailyNetworkTraffic": {
+          "wifi": 20,
+          "cellular": 0.67
+        }
+      }
+    ]
+  }
+}

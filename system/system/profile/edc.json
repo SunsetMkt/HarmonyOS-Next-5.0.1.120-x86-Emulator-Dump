@@ -1,0 +1,21 @@
+{
+    "process": "edc",
+    "systemability": [
+        {
+            "name": 66112,
+            "libpath": "libedcservices.z.so",
+            "run-on-create": false,
+            "distributed": false,
+            "dump_level": 1,
+            "start-on-demand": {
+                "bindercall": true,
+                "param": [
+                    {
+                        "name": "persist.edc.proxy_ap_startup",
+                        "value": "true"
+                    }
+                ]
+            }
+        }
+    ]
+}

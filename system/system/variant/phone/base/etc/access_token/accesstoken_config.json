@@ -1,0 +1,19 @@
+{
+  "privacy": {
+    "permission_used_record_size_maximum": 500000,
+    "permission_used_record_aging_time": 7,
+    "global_dialog_bundle_name": "com.huawei.hmos.security.privacycenter",
+    "global_dialog_ability_name": "com.huawei.hmos.security.privacycenter.SensorUsingReminderAbility"
+  },
+  "accesstoken": {
+    "permission_manager_bundle_name": "com.huawei.hmos.security.privacycenter",
+    "grant_ability_name": "PermissionGrantAbility",
+    "grant_service_ability_name": "PermissionServiceGrantAbility",
+    "permission_state_sheet_ability_name": "PermissionStateSheetAbility",
+    "global_switch_sheet_ability_name": "GlobalSwitchSheetAbility",
+    "temp_perm_cencle_time": 10000
+  },
+  "tokensync": {
+    "send_request_repeat_times": 5
+  }
+}

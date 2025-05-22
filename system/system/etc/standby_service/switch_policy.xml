@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<switch_proxy version="1">
+  <proxy id="601">
+    <switch id="105" value="0" recover_flag="1"/>
+  </proxy>
+  <proxy id="603">
+    <switch id="105" value="0" recover_flag="1"/>
+    <switch id="106" value="0" recover_flag="1"/>
+  </proxy>
+  <proxy id="701">
+    <switch id="105" value="0" recover_flag="1"/>
+    <switch id="106" value="0" recover_flag="1"/>
+  </proxy>
+</switch_proxy>

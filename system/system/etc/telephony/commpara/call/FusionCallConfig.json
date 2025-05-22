@@ -1,0 +1,41 @@
+{
+    "signalThreshold": {
+        "wifiSignalThreshold":2,
+        "wifiChloadThreshold":800,
+        "rsrpThresholdGood":-105,
+        "rsrqThresholdGood":-10,
+        "rsrpThresholdNormal":-105,
+        "rsrqThresholdNormal":-15
+    },
+
+    "callRat": {
+        "volte":1,
+        "vonr":1
+    },
+
+    "popup": {
+        "notifyRound":1,
+        "remoteQoeBadTimes":2,
+        "remoteQoeBadWindow":24
+    },
+
+    "qoe": {
+        "evaluationPeriod":2000,
+        "expectedMin":15,
+        "packetLossStartNat":5,
+        "packetLossStartVoiceCopy":0,
+        "packetLossStopNat":1,
+        "packetLossStopVoiceCopy":0,
+        "packetLossNotify":15
+    },
+
+    "version": {
+        "tunnel1":1,
+        "tunnel2":1,
+        "tunnel3":1,
+        "primaryLink":1,
+        "secondaryLink":2
+    },
+
+    "dataRat":1
+}

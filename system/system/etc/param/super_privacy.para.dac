@@ -1,0 +1,7 @@
+# Copyright (c) Huawei Technologies Co., Ltd. 2024-2024. All rights reserved.
+
+persist.super_privacy.mode = super_privacy_server:super_privacy_server:0775
+persist.super_privacy.camera_muted = super_privacy_server:super_privacy_server:0770
+persist.super_privacy.microphone_muted = super_privacy_server:super_privacy_server:0770
+persist.super_privacy.location_muted = super_privacy_server:super_privacy_server:0770
+persist.super_privacy.fold_status = super_privacy_server:super_privacy_server:0770

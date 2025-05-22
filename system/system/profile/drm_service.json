@@ -1,0 +1,12 @@
+{
+    "process": "drm_service",
+    "systemability": [
+        {
+            "name": 3012,
+            "libpath": "libdrm_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        }
+    ]
+}

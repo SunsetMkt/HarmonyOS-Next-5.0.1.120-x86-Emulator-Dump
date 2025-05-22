@@ -1,0 +1,21 @@
+{
+    "process": "gameservice_server",
+    "systemability": [
+        {
+            "name": 66006,
+            "libpath": "libgameservice_server.z.so",
+            "run-on-create": false,
+            "distributed": false,
+            "dump_level": 1,
+            "recycle-strategy": "low-memory",
+            "start-on-demand": {
+                "allow-update": false,
+                "commonevent": [
+                    {
+                        "name": "usual.event.PACKAGE_REMOVED"
+                    }
+                ]
+            }
+        }
+    ]
+}

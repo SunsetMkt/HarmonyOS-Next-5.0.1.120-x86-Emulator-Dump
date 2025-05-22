@@ -1,0 +1,9 @@
+persist.global.language=zh-Hans
+persist.global.locale=zh-Hans-CN
+persist.global.is24Hour=
+persist.global.preferredLanguages=
+persist.global.tz_override=false
+persist.global.upgrade_locale=
+const.global.language=zh-Hans
+const.global.locale=zh-Hans-CN
+const.global.region=CN

@@ -1,0 +1,11 @@
+{
+    "process": "nav_info_service",
+    "systemability": [
+        {
+            "name": 65878,
+            "libpath": "libnav_info_service.z.so",
+            "run-on-create": false,
+            "distributed": false
+        }
+    ]
+}

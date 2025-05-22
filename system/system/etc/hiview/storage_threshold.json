@@ -1,0 +1,73 @@
+{
+    "beta": {
+        "maxTotalSize": 2147483648,
+        "maxPackSize": -1,
+        "common": {
+            "maxDailySize": 31457280
+        },
+        "RELIABILITY": {
+            "maxDailySize": 1073741824
+        },
+        "KERNEL_VENDOR": {
+            "maxDailySize": 52428800
+        },
+        "POWERTHERMAL": {
+            "maxDailySize": 296747008
+        },
+        "CHR": {
+            "maxDailySize": 575668224
+        },
+        "NFC": {
+            "weeklyExtraSize": 80530636
+        },
+        "NFC_EXT": {
+            "weeklyExtraSize": 134217728
+        },
+        "SECURE_ELEMENT": {
+            "weeklyExtraSize": 53687091
+        },
+        "BT_SERVICE": {
+            "weeklyExtraSize": 268435456
+        },
+        "LOCATION": {
+            "weeklyExtraSize": 268435456
+        },
+        "COMMUNICATION": {
+            "weeklyExtraSize": 268435456
+        }
+    },
+    "commercial": {
+        "maxTotalSize": 314572800,
+        "maxPackSize": 5242880,
+        "common": {
+            "maxDailySize": 0
+        },
+        "RELIABILITY": {
+            "maxDailySize": 3460300
+        },
+        "KERNEL_VENDOR": {
+            "weeklyExtraSize": 73400320
+        },
+        "HIVIEWDFX": {
+            "maxDailySize": 204800
+        },
+        "AAFWK": {
+            "maxDailySize": 1048576
+        },
+        "COMM_RADAR" : {
+            "weeklyExtraSize": 1218560
+        },
+        "MIGRATESERVER" : {
+            "weeklyExtraSize": 102400
+        },
+        "WATCH_SENSORHUB" : {
+            "weeklyExtraSize": 102400
+        },
+        "TELEMETRY" : {
+            "weeklyExtraSize": 314572800
+        },
+        "CJ_RUNTIME" : {
+            "weeklyExtraSize": 10240
+        }
+    }
+}

@@ -1,0 +1,444 @@
+{
+  "notificationService": {
+    "dfxNormalEvent": [
+      "com.tencent.wechat"
+    ],
+    "maxUpdateSpeed": 30,
+    "slotTypeReminder": [
+      {
+        "name": "Social_communication",
+        "reminderFlags": "111111"
+      },
+      {
+        "name": "Service_reminder",
+        "reminderFlags": "111111"
+      },
+      {
+        "name": "Content_information",
+        "reminderFlags": "000000"
+      },
+      {
+        "name": "Live_view",
+        "reminderFlags": "111011"
+      },
+      {
+        "name": "Custom_service",
+        "reminderFlags": "110001"
+      },
+      {
+        "name": "Other",
+        "reminderFlags": "000000"
+      },
+      {
+        "name": "Emergency_information",
+        "reminderFlags": "111111"
+      }
+    ],
+    "multiDeviceReminder": [
+      {
+        "deviceType": "current",
+        "reminderFilterDevice": [
+          {
+            "slotType": "Social_communication",
+            "reminderFilterSlot": [
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "liteWearable",
+                    "status": "xxx1"
+                  }
+                ],
+                "status": "xx0x",
+                "reminderFlags": "100010"
+              },
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "liteWearable",
+                    "status": "xxx1"
+                  }
+                ],
+                "status": "x11x",
+                "reminderFlags": "100100"
+              }
+            ]
+          },
+          {
+            "slotType": "Service_reminder",
+            "reminderFilterSlot": [
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "liteWearable",
+                    "status": "xxx1"
+                  }
+                ],
+                "status": "xx0x",
+                "reminderFlags": "100010"
+              },
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "liteWearable",
+                    "status": "xxx1"
+                  }
+                ],
+                "status": "x11x",
+                "reminderFlags": "100100"
+              }
+            ]
+          },
+          {
+            "slotType": "Custom_service",
+            "reminderFilterSlot": [
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "liteWearable",
+                    "status": "xxx1"
+                  }
+                ],
+                "status": "xx0x",
+                "reminderFlags": "100000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "deviceType": "liteWearable",
+        "reminderFilterDevice": [
+          {
+            "slotType": "Social_communication",
+            "reminderFilterSlot": [
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "current",
+                    "status": "x01x"
+                  }
+                ],
+                "status": "xxx1",
+                "reminderFlags": "100000"
+              },
+              {
+                "status": "xxx0",
+                "reminderFlags": "100000"
+              },
+              {
+                "status": "xxx1",
+                "reminderFlags": "110000"
+              }
+            ]
+          },
+          {
+            "slotType": "Service_reminder",
+            "reminderFilterSlot": [
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "current",
+                    "status": "x01x"
+                  }
+                ],
+                "status": "xxx1",
+                "reminderFlags": "100000"
+              },
+              {
+                "status": "xxx0",
+                "reminderFlags": "100000"
+              },
+              {
+                "status": "xxx1",
+                "reminderFlags": "110000"
+              }
+            ]
+          },
+          {
+            "slotType": "Custom_service",
+            "reminderFilterSlot": [
+              {
+                "affectedBy": [
+                  {
+                    "deviceType": "current",
+                    "status": "xx1x"
+                  }
+                ],
+                "status": "xxx1",
+                "reminderFlags": "100000"
+              },
+              {
+                "status": "xxx0",
+                "reminderFlags": "100000"
+              },
+              {
+                "status": "xxx1",
+                "reminderFlags": "110000"
+              }
+            ]
+          },
+          {
+            "slotType": "Live_view",
+            "reminderFilterSlot": [
+              {
+                "contentType": "Local_live_view",
+                "reminderFilterContent": [
+                  {
+                    "typeCode": 0,
+                    "reminderFilterCode": [
+                      {
+                        "status": "xxx1",
+                        "reminderFlags": "111000"
+                      },
+                      {
+                        "status": "xxx0",
+                        "reminderFlags": "101000"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "contentType": "Local_live_view",
+                "reminderFilterContent": [
+                  {
+                    "typeCode": 5,
+                    "reminderFilterCode": [
+                      {
+                        "status": "xxx1",
+                        "reminderFlags": "111000"
+                      },
+                      {
+                        "status": "xxx0",
+                        "reminderFlags": "100000"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "contentType": "Live_view",
+                "reminderFilterContent": [
+                  {
+                    "reminderFlags": "110000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "slotType": "Emergency_information",
+            "reminderFilterSlot": [
+              {
+                "reminderFlags": "111000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "deviceType": "headset",
+        "reminderFilterDevice": [
+          {
+            "reminderFilterSlot": [
+              {
+                "reminderFlags": "000001",
+                "status": "xxx1"
+              }
+            ],
+            "slotType": "Social_communication|Service_reminder|Content_information|Other|Live_view|Custom_service|Emergency_information"
+          }
+        ]
+      }
+    ],
+    "permissionWhiteListNotification": [
+      "android",
+      "com.android.providers.downloads"
+    ]
+  },
+  "appPrivileges": {
+    "com.ohos.callui": "1101",
+    "com.huawei.hmos.clock": "11",
+    "com.huawei.hmos.hicar": "11",
+    "com.huawei.hmos.devicecollaboration": "11",
+    "com.huawei.hmos.huaweicast": "1",
+    "com.huawei.hmos.soundrecorder": "1",
+    "com.huawei.hmos.screenrecorder": "1",
+    "com.huawei.hmos.instantshare": "11",
+    "com.huawei.hmos.meetimeservice": "1101",
+    "com.ohos.spooler": "1",
+    "com.ohos.mms": "11",
+    "com.huawei.hmos.ouc": "1101",
+    "com.huawei.hmos.migrateclient": "1001",
+    "com.huawei.hmos.calendar": "01",
+    "com.huawei.hmos.calendardata": "011",
+    "com.huawei.hmos.settings": "01",
+    "com.huawei.hmsapp.intelligent": "01",
+    "com.huawei.hmos.health": "011",
+    "com.huawei.hmos.health.core": "01",
+    "com.huawei.hms.payment": "01",
+    "com.huawei.hmos.dataclone": "01",
+    "com.huawei.hmos.notepad": "011",
+    "com.huawei.hmos.tips": "01",
+    "com.huawei.hmos.tips.widget": "01",
+    "com.huawei.hmos.parentcontrol": "01",
+    "com.huawei.hmos.finddevice": "01",
+    "com.huawei.hmos.findservice": "01",
+    "com.huawei.hmos.meetime": "01",
+    "com.huawei.hmos.databackup": "01",
+    "com.huawei.hmos.cardistributedassist": "01",
+    "com.huawei.welinknow": "01",
+    "com.huawei.parentcontrol.parent": "01",
+    "com.huawei.works": "01",
+    "com.huawei.welink": "01",
+    "com.ohos.locationdialog": "0101",
+    "com.huawei.hmos.hiviewcar": "01",
+    "com.huawei.hmos.hiviewcare": "0101",
+    "com.tencent.wechat": "01",
+    "com.huawei.hms.musicservice": "1001",
+    "com.vanyun.onetalk.hms.app": "01",
+    "com.moji.hmweather": "01",
+    "com.dingtalk.hmos": "01",
+    "com.youloft.calendar.har": "01",
+    "com.sgai.dbzsharmonyos": "01",
+    "com.gotokeep.hm.keep": "01",
+    "com.thejoyrun.joyrun": "01",
+    "com.alipay.mobile.client": "01",
+    "com.csair.ehomehos": "01",
+    "cn.xuexi.qg4ohos": "01",
+    "com.easy.hmos.abroad": "01",
+    "com.ss.feishu": "01",
+    "com.ss.hm.ugc.aweme": "01",
+    "com.tencent.wework.hmos": "01",
+    "com.tencent.mqq": "01",
+    "com.tencent.weworklocal.hmos": "01",
+    "com.tencent.weworkenterprise.hmos": "01",
+    "com.tencent.meeting.app": "01",
+    "com.huawei.hmos.callsetting": "0001",
+    "com.ohos.contacts": "0001",
+    "com.huawei.hmsapp.hiai": "0001",
+    "com.android.contacts": "01",
+    "com.huawei.contacts": "01",
+    "com.android.mms": "01",
+    "com.android.calendar": "01",
+    "com.huawei.calendar": "01",
+    "com.huawei.android.hwouc": "01",
+    "com.android.settings": "01",
+    "com.huawei.intelligent": "01",
+    "com.android.server.telecom": "01",
+    "com.android.deskclock": "01",
+    "com.huawei.deskclock": "01",
+    "com.huawei.health": "01",
+    "com.huawei.trustspace": "01",
+    "com.huawei.android.instantshare": "01",
+    "com.android.bluetooth": "01",
+    "com.hicloud.android.clone": "01",
+    "com.example.android.notepad": "01",
+    "com.huawei.notepad": "01",
+    "com.huawei.tips": "01",
+    "com.huawei.KoBackup": "01",
+    "com.huawei.parentcontrol": "01",
+    "com.huawei.hwvoipservice": "01",
+    "com.huawei.hishow": "01",
+    "com.huawei.hidsca": "01",
+    "com.huawei.iconnect": "01",
+    "com.huawei.associateassistant": "01",
+    "com.huawei.onehopassistantsdk": "01",
+    "com.huawei.hicar": "01",
+    "com.huawei.hwid": "01",
+    "com.huawei.hms": "01",
+    "com.huawei.wear.guard": "01",
+    "com.huawei.meetime": "01",
+    "com.huawei.localBackup": "01",
+    "com.vanyun.onetalk.app": "01",
+    "jp.naver.line.android": "01",
+    "com.gbox.jp.naver.line.android": "01",
+    "com.facebook.orca": "01",
+    "com.gbox.com.facebook.orca": "01",
+    "com.jamworks.snapshot": "01",
+    "com.instagram.android": "01",
+    "com.ninefolders.hd3.work": "01",
+    "com.mobileiron": "01",
+    "com.airwatch.androidagent": "01",
+    "com.skype.rover": "01",
+    "com.snapchat.android": "01",
+    "com.baidu.launcher": "01",
+    "com.android.cts.verifier": "01",
+    "com.paic.mo.client": "01",
+    "com.tencent.mm": "01",
+    "com.tencent.mobileqq": "01",
+    "com.moji.mjweather": "01",
+    "com.alibaba.android.rimet": "01",
+    "cn.etouch.ecalendar": "01",
+    "com.youloft.calendar": "01",
+    "com.tencent.tim": "01",
+    "com.tencent.wework": "01",
+    "com.codoon.gps": "01",
+    "com.whatsapp": "01",
+    "com.gbox.com.whatsapp": "01",
+    "oms.mmc.app.almanac_inland": "01",
+    "com.taobao.qianniu": "01",
+    "im.yixin": "01",
+    "com.when.coco": "01",
+    "com.skype.raider": "01",
+    "com.shougang.shiftassistant": "01",
+    "com.zdworks.android.zdclock": "01",
+    "cn.ticktick.task": "01",
+    "com.doudoubird.calendar": "01",
+    "com.psyone.brainmusic": "01",
+    "com.yuedong.sport": "01",
+    "com.gotokeep.keep": "01",
+    "com.imohoo.shanpao": "01",
+    "co.runner.app": "01",
+    "gz.lifesense.weidong": "01",
+    "com.ss.android.article.calendar": "01",
+    "org.xianliao": "01",
+    "com.cheetah.stepformoney": "01",
+    "cn.ledongli.ldl": "01",
+    "me.chunyu.Pedometer": "01",
+    "im.xingzhe": "01",
+    "com.phicomm.phicare": "01",
+    "zb.s20190614095159591": "01",
+    "com.wnsj.app": "01",
+    "com.yuntongxun.rongxin.lite": "01",
+    "net.qihoo.corp.app.iqha": "01",
+    "com.eg.android.AlipayGphone": "01",
+    "com.csair.ehome": "01",
+    "com.multiable.mobile.cordchat.ent": "01",
+    "cn.com.trueway.spbook": "01",
+    "cn.xuexi.android": "01",
+    "com.easy.abroad": "01",
+    "com.ss.android.lark": "01",
+    "com.alibaba.android.rimet.aliding": "01",
+    "com.ruaho.echat.icbc": "01",
+    "com.hayden.hap.weworklocal": "01",
+    "cn.shkjg": "01",
+    "com.sfexpress.sfim": "01",
+    "com.sankuai.xmpp": "01",
+    "com.tencent.weworklocal": "01",
+    "com.ss.android.ugc.aweme": "01",
+    "org.telegram.messenger": "01",
+    "us.zoom.videomeetings": "01",
+    "com.twitter.android": "01",
+    "com.linkedin.android": "01",
+    "com.whatsapp.w4b": "01",
+    "com.microsoft.teams": "01",
+    "com.valvesoftware.android.steam.friendsui": "01",
+    "com.discord": "01",
+    "com.qyqy.ucoo": "01",
+    "com.zing.zalo": "01",
+    "com.facebook.lite": "01",
+    "com.kakao.talk": "01",
+    "com.viber.voip": "01",
+    "com.instagram.barcelona": "01",
+    "com.vkontakte.android": "01",
+    "com.litatom.app": "01",
+    "com.microsoft.office.lync15": "01",
+    "us.zoom.videomeetings4intune": "01",
+    "com.video.mini": "01",
+    "im.thebot.messenger": "01",
+    "com.alibaba.taurus.zhejiang": "01",
+    "com.alibaba.taurus.chongqing": "01",
+    "com.shsrmzf.ssbzwy": "01"
+  }
+}

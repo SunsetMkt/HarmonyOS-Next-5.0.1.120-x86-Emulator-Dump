@@ -1,0 +1,34 @@
+{
+    "process": "distributedsched",
+    "systemability": [
+        {
+            "name": 1401,
+            "libpath": "libdistributedschedsvr.z.so",
+            "run-on-create": false,
+            "auto-restart": true,
+            "distributed": true,
+            "dump-level": 1,
+            "start-on-demand": {
+                "deviceonline": [
+                    {
+                        "name": "deviceonline",
+                        "value": "on"
+                    }
+                ],
+                "commonevent": [
+                    {
+                        "name": "usual.event.BOOT_COMPLETED"
+                    }
+                ]
+            },
+            "stop-on-demand": {
+                "deviceonline": [
+                    {
+                        "name": "deviceonline",
+                        "value": "off"
+                    }
+                ]
+            }
+        }
+    ]
+}

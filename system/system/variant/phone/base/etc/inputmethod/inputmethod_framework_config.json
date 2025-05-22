@@ -1,0 +1,186 @@
+{
+  "systemConfig": {
+    "defaultInputMethod": "com.huawei.hmos.inputmethod/InputService",
+    "systemInputMethodConfigAbility": "com.huawei.hmos.inputmethod/default/MainAbility",
+    "enableInputMethodFeature": true,
+    "enableFullExperienceFeature": true
+  },
+  "supportedInputTypeList": [
+    {
+      "inputType": 0,
+      "bundleName": "com.huawei.hmos.inputmethod",
+      "subtypeId": "PreviewScanInputService"
+    },
+    {
+      "inputType": 1,
+      "bundleName": "com.huawei.hmos.inputmethod",
+      "subtypeId": "InputPwdService"
+    },
+    {
+      "inputType": 2,
+      "bundleName": "com.huawei.hmos.inputmethod",
+      "subtypeId": "InputVoiceService"
+    }
+  ],
+  "sysPanelAdjust": [
+    {
+      "style": [
+        "fix",
+        "default",
+        "landscape"
+      ],
+      "top": 0,
+      "left": 100,
+      "right": 100,
+      "bottom": 28
+    },
+    {
+      "style": [
+        "fix",
+        "default",
+        "portrait"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 45
+    },
+    {
+      "style": [
+        "fix",
+        "foldable",
+        "landscape"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 45
+    },
+    {
+      "style": [
+        "fix",
+        "foldable",
+        "portrait"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 45
+    },
+    {
+      "style": [
+        "floating",
+        "default",
+        "landscape"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 52
+    },
+    {
+      "style": [
+        "floating",
+        "default",
+        "portrait"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 52
+    },
+    {
+      "style": [
+        "floating",
+        "foldable",
+        "landscape"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 52
+    },
+    {
+      "style": [
+        "floating",
+        "foldable",
+        "portrait"
+      ],
+      "top": 0,
+      "left": 0,
+      "right": 0,
+      "bottom": 52
+    }
+  ],
+  "defaultFullImeList": [
+    {
+      "appIdentifier": "1173759633894955328",
+      "expirationTime": "2024-11-30 23:59:59",
+      "expirationVersionCode": 1201
+    },
+    {
+      "appIdentifier": "5765880207854664467",
+      "expirationTime": "2024-11-30 23:59:59"
+    },
+    {
+      "appIdentifier": "5765880207854517329",
+      "expirationTime": "2024-11-30 23:59:59"
+    },
+    {
+      "appIdentifier": "5765880207854202175",
+      "expirationTime": "2024-11-30 23:59:59"
+    },
+    {
+      "appIdentifier": "5765880207855351113",
+      "expirationTime": "2024-11-30 23:59:59",
+      "expirationVersionCode": 11
+    },
+    {
+      "appIdentifier": "5765880207855275657",
+      "expirationTime": "2024-11-30 23:59:59",
+      "expirationVersionCode": 1100
+    }
+  ],
+  "keyboardBarParams": {
+    "unexpand": {
+      "landscapeLeftElevateDistance": 45,
+      "landscapeRightElevateDistance": 45,
+      "landscapeElevateHeight": 27,
+      "portraitLeftElevateDistance": 28,
+      "portraitRightElevateDistance": 28,
+      "portraitElevateHeight": 10
+    },
+    "expand": {
+      "landscapeLeftElevateDistance": 105,
+      "landscapeRightElevateDistance": 105,
+      "landscapeElevateHeight": 9,
+      "portraitLeftElevateDistance": 93,
+      "portraitRightElevateDistance": 93,
+      "portraitElevateHeight": 9
+    },
+    "float": {
+      "landscapeLeftElevateDistance": 9,
+      "landscapeRightElevateDistance": 9,
+      "landscapeElevateHeight": 8,
+      "portraitLeftElevateDistance": 9,
+      "portraitRightElevateDistance": 9,
+      "portraitElevateHeight": 8
+    },
+    "leftOneHand": {
+      "landscapeLeftElevateDistance": 18,
+      "landscapeRightElevateDistance": 4,
+      "landscapeElevateHeight": 10,
+      "portraitLeftElevateDistance": 18,
+      "portraitRightElevateDistance": 4,
+      "portraitElevateHeight": 10
+    },
+    "rightOneHand": {
+      "landscapeLeftElevateDistance": 4,
+      "landscapeRightElevateDistance": 18,
+      "landscapeElevateHeight": 10,
+      "portraitLeftElevateDistance": 4,
+      "portraitRightElevateDistance": 18,
+      "portraitElevateHeight": 10
+    }
+  }
+}

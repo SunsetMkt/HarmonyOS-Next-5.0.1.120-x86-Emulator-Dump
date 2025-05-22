@@ -1,0 +1,27 @@
+{
+    "process": "privacy_service",
+    "systemability": [
+        {
+            "name": 3505,
+            "libpath": "libprivacy_manager_service.z.so",
+            "run-on-create": true,
+            "depend_time_out": 60000,
+            "distributed": true,
+            "depend": [
+                3503
+            ],
+            "dump_level": 1
+        },
+        {
+            "name": 66090,
+            "libpath": "libsps_privacy_indicator_service.z.so",
+            "run-on-create": true,
+            "distributed": true,
+            "depend_time_out": 60000,
+            "depend": [
+                3505
+            ],
+            "dump_level": 1
+        }
+    ]
+}

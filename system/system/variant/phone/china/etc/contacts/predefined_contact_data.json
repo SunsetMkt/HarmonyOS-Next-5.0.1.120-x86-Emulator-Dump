@@ -1,0 +1,33 @@
+{
+    "photo": null,
+    "display_name": "华为消费者服务热线",
+    "phones": [
+        {
+            "selectTextCustom": "",
+            "num": "950800",
+            "numType": "1"
+        }
+    ],
+    "emails": [
+        {
+            "selectTextCustom": "",
+            "address": "mobilecn@mail01.huawei.com",
+            "emailType": "1"
+        }
+    ],
+    "position": "",
+    "company": "",
+    "remarks": "",
+    "aims": [],
+    "houses": [
+        {
+            "selectTextCustom": "",
+            "houseType": "1",
+            "houseName": "深圳市龙岗区坂田华为基地"
+        }
+    ],
+    "websites": [],
+    "relationships": [],
+    "events": [],
+    "groups": []
+}

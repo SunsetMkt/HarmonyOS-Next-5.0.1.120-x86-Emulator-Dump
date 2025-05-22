@@ -1,0 +1,12 @@
+{
+  "ams_extension_config": [
+    {
+      "name": "InputMethodExtension",
+      "extension_type_name": "inputMethod",
+      "third_party_app_blocked_flag": false,
+      "service_startup_enable_flag": false,
+      "service_blocked_list": [],
+      "need_create_sandbox": true
+    }
+  ]
+}

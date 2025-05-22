@@ -1,0 +1,13 @@
+{
+    "FileDescriptorLeak": {
+        "enable": true,
+        "threshold": 5000,
+        "upload_interval": 36000,
+        "dump_time" : 60,
+        "kill_config": {
+            "background_kill_threshold" : 20000,
+            "foreground_kill_threshold" : 30000,
+            "foreground_kill_list": "foundation/render_service/com.ohos.sceneboard/"
+        }
+    }
+}

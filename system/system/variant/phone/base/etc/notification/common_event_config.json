@@ -1,0 +1,344 @@
+{
+  "publishControl": [
+    {
+      "eventName": "usual.event.BOOT_COMPLETED",
+      "uidList": [
+        1101,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_SWITCHED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_UNLOCKED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_ADDED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_REMOVED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_BACKGROUND",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_FOREGROUND",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_STOPPING",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_STOPPED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.HWID_TOKEN_INVALID",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.DISTRIBUTED_ACCOUNT_TOKEN_INVALID",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.HWID_LOGOFF",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.DISTRIBUTED_ACCOUNT_LOGOFF",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.USER_INFO_UPDATED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.DOMAIN_ACCOUNT_STATUS_CHANGED",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.HWID_LOGIN",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.HWID_LOGOUT",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.DISTRIBUTED_ACCOUNT_LOGIN",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "common.event.DISTRIBUTED_ACCOUNT_LOGOUT",
+      "uidList": [
+        3058,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.wifi.POWER_STATE",
+      "uidList": [
+        1010,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.wifi.CONN_STATE",
+      "uidList": [
+        1010,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.AIRPLANE_MODE",
+      "uidList": [
+        1001,
+        1099,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.CONNECTIVITY_CHANGE",
+      "uidList": [
+        1099,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.HTTP_PROXY_CHANGE",
+      "uidList": [
+        1099,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.TIME_CHANGED",
+      "uidList": [
+        3013,
+        3819,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.LOCALE_CHANGED",
+      "uidList": [
+        3013,
+        3819,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.TIME_TICK",
+      "uidList": [
+        3013,
+        3819,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SANDBOX_PACKAGE_ADDED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SANDBOX_PACKAGE_REMOVED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.PACKAGE_CHANGED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.PACKAGE_INSTALLATION_STARTED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.OVERLAY_PACKAGE_ADDED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.OVERLAY_PACKAGE_CHANGED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.PACKAGE_ADDED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.PACKAGE_REMOVED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SCREEN_OFF",
+      "uidList": [
+        5528,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SCREEN_ON",
+      "uidList": [
+        5528,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.BATTERY_CHANGED",
+      "uidList": [
+        5528,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.CALL_STATE_CHANGED",
+      "uidList": [
+        5523,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SMS_EMERGENCY_CB_RECEIVE_COMPLETED",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SMS_WAPPUSH_RECEIVE_COMPLETED",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.NITZ_TIME_CHANGED",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.NITZ_TIMEZONE_CHANGED",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SIM_STATE_CHANGED",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SIM.DEFAULT_MAIN_SUBSCRIPTION_CHANGED",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.SET_PRIMARY_SLOT_STATUS",
+      "uidList": [
+        1001,
+        5557
+      ]
+    },
+    {
+      "eventName": "usual.event.CELLULAR_DATA_STATE_CHANGED",
+      "uidList": [
+        1001,
+        5557
+      ]
+	
+    },
+    {
+      "eventName": "usual.event.RESTORE_START",
+      "uidList": [
+        1089
+      ]
+    }
+  ]
+}

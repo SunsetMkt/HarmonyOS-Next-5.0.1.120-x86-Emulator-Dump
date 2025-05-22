@@ -1,0 +1,6 @@
+version=11.10.24.100
+type=LIBPHONENUMBER
+subtype=generic
+compatibleVersion=1
+classify=1
+displayVersion=PN.GENC.11.10.24.100

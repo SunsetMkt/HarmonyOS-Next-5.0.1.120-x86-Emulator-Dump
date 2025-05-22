@@ -1,0 +1,6 @@
+/*
+ * Copyright (c) Huawei Technologies Co., Ltd. 2024. All rights reserved.
+ */
+
+persist.edc.verify_enterprise_device=false
+persist.edc.proxy_ap_startup=false

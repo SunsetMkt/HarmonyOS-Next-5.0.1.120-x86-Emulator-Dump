@@ -1,0 +1,75 @@
+{
+  "gxes": {
+    "CN": "https://gpds-drcn.game.dbankcloud.cn"
+  },
+  "tsms": {
+    "CN": "tsms-drcn.security.dbankcloud.cn",
+    "DE": "tsms-dre.security.dbankcloud.com",
+    "RU": "tsms-drru.security.dbankcloud.ru",
+    "SG": "tsms-dra.security.dbankcloud.com"
+  },
+  "HA": {
+    "haCollectUrl": "AUTO"
+  },
+  "gameRenderThread": {
+    "com.duole.duolemjhd.huawei": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.duole.hmos.shengjihd.huawei": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.shuangkouHDNew.hap": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.bf.ERShuangKouNew.hap": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.javgameNew.tlj.hap": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.wedobest.xiangqi.harm": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.uc108.mobile.gxni.hm": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.bf.hzmjhdNew.hap": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.bf.TTShuangKouNew.hap": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    },
+    "com.htwoplayers.srjjc.harm": {
+      "threadName": "WorkerThread",
+      "delayTime": 15
+    }
+  },
+  "gameCriManaDecodeThread": {
+    "com.miHoYo.Yuanshen": {
+      "threadName": "CriManaDecodeTh",
+      "delayTime": 5
+    },
+    "com.miHoYo.yuanshencb": {
+      "threadName": "CriManaDecodeTh",
+      "delayTime": 5
+    },
+    "com.miHoYo.enterprise.HK4E": {
+      "threadName": "CriManaDecodeTh",
+      "delayTime": 5
+    },
+    "com.miHoYo.enterprise.HK4E3": {
+      "threadName": "CriManaDecodeTh",
+      "delayTime": 5
+    }
+  },
+  "gameThreadCpuPerfMaxUtil": 800
+}

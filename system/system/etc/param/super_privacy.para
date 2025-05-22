@@ -1,0 +1,16 @@
+# Copyright (c) Huawei Technologies Co., Ltd. 2024-2024. All rights reserved.
+
+# Persist system parameter, used to save super privacy mode.
+persist.super_privacy.mode = 0
+
+# Persist system parameter, the camera default muted state.
+persist.super_privacy.camera_muted = 0
+
+# Persist system parameter, the microphone default muted state.
+persist.super_privacy.microphone_muted = 0
+
+# Persist system parameter, the location default muted state.
+persist.super_privacy.location_muted = 1
+
+# Persist system parameter, used to save last fold status, the default status is EXPAND.
+persist.super_privacy.fold_status = 1

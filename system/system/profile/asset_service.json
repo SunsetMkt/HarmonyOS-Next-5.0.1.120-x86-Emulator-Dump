@@ -1,0 +1,48 @@
+{
+    "process": "asset_service",
+    "systemability": [
+        {
+            "name": 8100,
+            "libpath": "libasset_service.dylib.so",
+            "run-on-create": false,
+            "distributed": false,
+            "dump_level": 1,
+            "recycle-strategy": "low-memory",
+            "start-on-demand": {
+                "commonevent": [
+                    {
+                        "name": "usual.event.PACKAGE_REMOVED"
+                    },
+                    {
+                        "name": "usual.event.SANDBOX_PACKAGE_REMOVED"
+                    },
+                    {
+                        "name": "usual.event.USER_REMOVED"
+                    },
+                    {
+                        "name": "usual.event.CHARGING"
+                    },
+                    {
+                        "name": "usual.event.USER_UNLOCKED"
+                    },
+                    {
+                        "name": "usual.event.RESTORE_START"
+                    },
+                    {
+                        "name": "USER_PIN_CREATED_EVENT"
+                    },
+                    {
+                        "name": "usual.event.BOOT_COMPLETED"
+                    }
+                ],
+                "timedevent": [
+                    {
+                        "name": "loopevent",
+                        "value": "129600",
+                        "persistence": true
+                    }
+                ]
+            }
+        }
+    ]
+}

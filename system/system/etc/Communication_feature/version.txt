@@ -1,0 +1,6 @@
+version=1.1.1.100
+type=CELLULAR_CLOUD
+subtype=generic
+compatibleVersion=1
+classify=1
+displayVersion=CM.GENC.1.1.1.100

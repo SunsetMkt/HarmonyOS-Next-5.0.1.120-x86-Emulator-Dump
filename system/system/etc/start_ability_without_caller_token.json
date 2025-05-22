@@ -1,0 +1,20 @@
+{
+    "startAbilityWithoutCallerToken": [
+        {
+            "bundleName": "com.ohos.contacts",
+            "abilityName": "com.ohos.contacts.MainAbility"
+        },
+        {
+            "bundleName": "com.huawei.hmos.spooler",
+            "abilityName": "PrinterManagerAbility"
+        },
+        {
+            "bundleName": "com.huawei.hmos.spooler",
+            "abilityName": "PreferencesAbility"
+        },
+        {
+            "bundleName": "com.huawei.hmos.settings",
+            "abilityName": "com.huawei.hmos.settings.MainAbility"
+        }
+    ]
+}

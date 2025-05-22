@@ -1,0 +1,9 @@
+{
+  "configs": [
+    {
+      "bundleName": "com.huawei.hmos.findservice",
+      "disableWlanSwitch": true,
+      "disableCellularSwitch": true
+    }
+  ]
+}

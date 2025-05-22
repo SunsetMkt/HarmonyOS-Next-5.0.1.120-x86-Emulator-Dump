@@ -1,0 +1,47 @@
+{
+    "process": "resource_schedule_service",
+    "systemability": [
+        {
+            "name": 1914,
+            "libpath": "libstandby_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        },
+        {
+            "name": 1919,
+            "libpath": "libmlps_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        },
+        {
+            "name": 1910,
+            "libpath": "libsuspend_manager_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        },
+        {
+            "name": 1901,
+            "libpath": "libresschedsvc.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        },
+        {
+            "name": 1917,
+            "libpath": "libprocess_relation_manager_service.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        },
+        {
+            "name": 1906,
+            "libpath": "libsocperf_server.z.so",
+            "run-on-create": true,
+            "distributed": false,
+            "dump_level": 1
+        }
+    ]
+}

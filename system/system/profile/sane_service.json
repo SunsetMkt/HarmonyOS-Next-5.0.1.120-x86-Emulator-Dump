@@ -1,0 +1,13 @@
+{
+    "process": "sane_service",
+    "systemability": [
+        {
+            "name": 3709,
+            "libpath": "libsane_service.z.so",
+            "run-on-create": false,
+            "auto-restart": true,
+            "distributed": false,
+            "dump_level": 1
+        }
+    ]
+}

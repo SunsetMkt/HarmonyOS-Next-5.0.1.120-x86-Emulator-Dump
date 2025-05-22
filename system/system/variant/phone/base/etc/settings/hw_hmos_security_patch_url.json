@@ -1,0 +1,346 @@
+[
+  {
+    "name": "zh-hans-cn",
+    "url": "https://consumer.huawei.com/cn/support/bulletin/"
+  },
+  {
+    "name": "zh-hant-hk",
+    "url": "https://consumer.huawei.com/hk/support/bulletin/"
+  },
+  {
+    "name": "zh-hant-cn",
+    "url": "https://consumer.huawei.com/hk/support/bulletin/"
+  },
+  {
+    "name": "en-us",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "am-et",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ar-eg",
+    "url": "https://consumer.huawei.com/eg/support/bulletin/"
+  },
+  {
+    "name": "as-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "az-az",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "be-by",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "bg-bg",
+    "url": "https://consumer.huawei.com/bg/support/bulletin/"
+  },
+  {
+    "name": "bn-bd",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "bo-cn",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "bs-ba",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ca-es",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "cs-cz",
+    "url": "https://consumer.huawei.com/cz/support/bulletin/"
+  },
+  {
+    "name": "da-dk",
+    "url": "https://consumer.huawei.com/dk/support/bulletin/"
+  },
+  {
+    "name": "de-de",
+    "url": "https://consumer.huawei.com/de/support/bulletin/"
+  },
+  {
+    "name": "de-at",
+    "url": "https://consumer.huawei.com/de/support/bulletin/"
+  },
+  {
+    "name": "de-ch",
+    "url": "https://consumer.huawei.com/de/support/bulletin/"
+  },
+  {
+    "name": "el-gr",
+    "url": "https://consumer.huawei.com/gr/support/bulletin/"
+  },
+  {
+    "name": "en-gb",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "es-es",
+    "url": "https://consumer.huawei.com/es/support/bulletin/"
+  },
+  {
+    "name": "es-us",
+    "url": "https://consumer.huawei.com/es/support/bulletin/"
+  },
+  {
+    "name": "et-ee",
+    "url": "https://consumer.huawei.com/ee/support/bulletin/"
+  },
+  {
+    "name": "eu-es",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "fa-ir",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "fi-fi",
+    "url": "https://consumer.huawei.com/fi/support/bulletin/"
+  },
+  {
+    "name": "fr-fr",
+    "url": "https://consumer.huawei.com/fr/support/bulletin/"
+  },
+  {
+    "name": "fr-ch",
+    "url": "https://consumer.huawei.com/fr/support/bulletin/"
+  },
+  {
+    "name": "gl-es",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "gu-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "hi-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "hr-hr",
+    "url": "https://consumer.huawei.com/hr/support/bulletin/"
+  },
+  {
+    "name": "hu-hu",
+    "url": "https://consumer.huawei.com/hu/support/bulletin/"
+  },
+  {
+    "name": "in-id",
+    "url": "https://consumer.huawei.com/id/support/bulletin/"
+  },
+  {
+    "name": "id-",
+    "url": "https://consumer.huawei.com/id/support/bulletin/"
+  },
+  {
+    "name": "it-it",
+    "url": "https://consumer.huawei.com/it/support/bulletin/"
+  },
+  {
+    "name": "it-ch",
+    "url": "https://consumer.huawei.com/it/support/bulletin/"
+  },
+  {
+    "name": "iw-il",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "he-",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ja-jp",
+    "url": "https://consumer.huawei.com/jp/support/bulletin/"
+  },
+  {
+    "name": "jv-id",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ka-ge",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "kk-kz",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "km-kh",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "kn-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ko-kr",
+    "url": "https://consumer.huawei.com/kr/support/bulletin/"
+  },
+  {
+    "name": "lo-la",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "lt-lt",
+    "url": "https://consumer.huawei.com/lt/support/bulletin/"
+  },
+  {
+    "name": "lv-lv",
+    "url": "https://consumer.huawei.com/lv/support/bulletin/"
+  },
+  {
+    "name": "mai-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "mi-nz",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "mk-mk",
+    "url": "https://consumer.huawei.com/mk/support/bulletin/"
+  },
+  {
+    "name": "ml-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "mn-mn",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "mr-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ms-my",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "my-mm",
+    "url": "https://consumer.huawei.com/mm/support/bulletin/"
+  },
+  {
+    "name": "my-zg",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "nb-no",
+    "url": "https://consumer.huawei.com/no/support/bulletin/"
+  },
+  {
+    "name": "ne-np",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "nl-nl",
+    "url": "https://consumer.huawei.com/nl/support/bulletin/"
+  },
+  {
+    "name": "or-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "pa-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "pl-pl",
+    "url": "https://consumer.huawei.com/pl/support/bulletin/"
+  },
+  {
+    "name": "pt-br",
+    "url": "https://consumer.huawei.com/pt/support/bulletin/"
+  },
+  {
+    "name": "pt-pt",
+    "url": "https://consumer.huawei.com/pt/support/bulletin/"
+  },
+  {
+    "name": "ro-ro",
+    "url": "https://consumer.huawei.com/ro/support/bulletin/"
+  },
+  {
+    "name": "ru-ru",
+    "url": "https://consumer.huawei.com/ru/support/bulletin/"
+  },
+  {
+    "name": "si-lk",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "sk-sk",
+    "url": "https://consumer.huawei.com/sk/support/bulletin/"
+  },
+  {
+    "name": "sl-si",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "sr-rs",
+    "url": "https://consumer.huawei.com/rs/support/bulletin/"
+  },
+  {
+    "name": "sr-ba",
+    "url": "https://consumer.huawei.com/rs/support/bulletin/"
+  },
+  {
+    "name": "sv-se",
+    "url": "https://consumer.huawei.com/se/support/bulletin/"
+  },
+  {
+    "name": "sw-ke",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "ta-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "te-in",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "th-th",
+    "url": "https://consumer.huawei.com/th/support/bulletin/"
+  },
+  {
+    "name": "tl-ph",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "fil-ph",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "tr-tr",
+    "url": "https://consumer.huawei.com/tr/support/bulletin/"
+  },
+  {
+    "name": "uk-ua",
+    "url": "https://consumer.huawei.com/ua/support/bulletin/"
+  },
+  {
+    "name": "ur-pk",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "uz-uz",
+    "url": "https://consumer.huawei.com/en/support/bulletin/"
+  },
+  {
+    "name": "vi-vn",
+    "url": "https://consumer.huawei.com/vn/support/bulletin/"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "permanent_reject_failcauses": "8,27,28,30,50,51",
+  "restart_radio_immediately": "27,28,29,30,32,33,4097,130,65,160",
+  "retry_strategy_list": [
+      {
+          "id" : "1",
+          "type" : "normal",
+          "causeList" : "22,26,67,69,70,44,45,82,83,84,91",
+          "interval" : "10",
+          "intervalInd" : "1",
+          "times" : "4",
+          "action" : "1",
+          "backOffTime" : "720"
+      },
+      {
+          "id" : "2",
+          "type" : "normal",
+          "causeList" : "31,35,38,54,68,95,96,97,98,99,100,101,111",
+          "interval" : "5",
+          "intervalInd" : "1",
+          "times" : "5",
+          "action" : "1",
+          "backOffTime" : "360"
+      },
+      {
+          "id" : "3",
+          "type" : "normal",
+          "causeList" : "36,39,169,2816",
+          "interval" : "1",
+          "intervalInd" : "1",
+          "times" : "6",
+          "action" : "1",
+          "backOffTime" : "0"
+      },
+      {
+          "id" : "4",
+          "type" : "normal",
+          "causeList" : "2034",
+          "interval" : "4",
+          "intervalInd" : "1",
+          "times" : "3",
+          "action" : "1",
+          "backOffTime" : "0"
+      },
+      {
+          "id" : "5",
+          "type" : "normal",
+          "causeList" : "29",
+          "interval" : "1",
+          "intervalInd" : "1",
+          "times" : "4",
+          "action" : "3",
+          "backOffTime" : "12600"
+      },
+      {
+          "id" : "6",
+          "type" : "normal",
+          "causeList" : "3585",
+          "interval" : "1",
+          "intervalInd" : "1",
+          "times" : "2",
+          "action" : "4",
+          "backOffTime" : "12600"
+      },
+      {
+          "id" : "7",
+          "type" : "normal",
+          "causeList" : "33",
+          "interval" : "1",
+          "intervalInd" : "1",
+          "times" : "1",
+          "action" : "3",
+          "backOffTime" : "12600"
+      },
+      {
+          "id" : "8",
+          "type" : "normal",
+          "causeList" : "55,90",
+          "interval" : "5",
+          "intervalInd" : "1",
+          "times" : "3",
+          "action" : "4",
+          "backOffTime" : "0"
+      },
+      {
+          "id" : "9",
+          "type" : "normal",
+          "causeList" : "65535,1821,3199",
+          "interval" : "5",
+          "intervalInd" : "1",
+          "times" : "4",
+          "action" : "4",
+          "backOffTime" : "0"
+      }
+  ]
+}

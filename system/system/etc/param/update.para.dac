@@ -1,0 +1,3 @@
+persist.dupdate_engine.              = update:update:0755
+persist.update.hmos_new_version_check_info=update:update:0755
+persist.update.hmos_new_version_sdk_info=update:update:0755

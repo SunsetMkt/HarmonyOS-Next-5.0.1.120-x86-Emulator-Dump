@@ -1,0 +1,115 @@
+{
+  "global": {
+    "sandbox-root": "/mnt/sandbox/<currentUserId>/app-root",
+    "sandbox-ns-flags": [
+      "pid"
+    ]
+  },
+  "required": {
+    "system-const": {
+      "mount-paths": [
+        {
+          "sandbox-path": "/version",
+          "src-path": "/version"
+        },
+        {
+          "sandbox-path": "/system/variant",
+          "src-path": "/system/variant"
+        },
+        {
+          "sandbox-path": "/preload",
+          "src-path": "/preload"
+        },
+        {
+          "sandbox-path": "/cust",
+          "src-path": "/cust"
+        }
+      ],
+      "symbol-links": [],
+      "mount-groups": []
+    },
+    "app-variable": {
+      "mount-paths": [],
+      "mount-groups": []
+    }
+  },
+  "conditional": {
+    "permission": [],
+    "spawn-flag": [],
+    "package-name": [
+      {
+        "name": "com.huawei.hmsapp.appgallery",
+        "sandbox-switch": "ON",
+        "mount-paths": [
+          {
+            "src-path": "/data/app/el1/bundle/public/",
+            "sandbox-path": "/data/bundles/",
+            "check-action-status": "true"
+          }
+        ],
+        "symbol-links": []
+      },
+      {
+        "name": "com.huawei.hms.hmscore",
+        "sandbox-switch": "ON",
+        "mount-paths": [
+          {
+            "src-path": "/data/app/el1/bundle/public/",
+            "sandbox-path": "/data/bundles/",
+            "check-action-status": "true"
+          }
+        ],
+        "symbol-links": []
+      },
+      {
+        "name": "com.ohos.certmanager",
+        "sandbox-switch": "ON",
+        "mount-paths": [
+          {
+            "src-path": "/data/app/el1/bundle/public/",
+            "sandbox-path": "/data/bundles/",
+            "check-action-status": "true"
+          }
+        ],
+        "symbol-links": []
+      },
+      {
+        "name": "com.huawei.hmos.instantshare",
+        "sandbox-switch": "ON",
+        "mount-paths": [
+          {
+            "src-path": "/data/app/el1/bundle/public/",
+            "sandbox-path": "/data/bundles/",
+            "check-action-status": "true"
+          }
+        ],
+        "symbol-links": []
+      },
+      {
+        "name": "com.huawei.ideskos",
+        "sandbox-switch": "ON",
+        "mount-paths": [
+          {
+            "src-path": "/data/app/el1/bundle/public/",
+            "sandbox-path": "/data/bundles/",
+            "check-action-status": "true"
+          }
+        ],
+        "symbol-links": []
+      },
+      {
+        "name": "com.ohos.settingsdata",
+        "sandbox-switch": "ON",
+        "mount-paths": [
+          {
+            "src-path": "/data/hmos4/system/com.ohos.settingsdata/",
+            "sandbox-path": "/data/migrate/",
+            "check-action-status": "false"
+          }
+        ],
+        "symbol-links": []
+      }
+    ]
+  },
+  "name-groups": []
+}

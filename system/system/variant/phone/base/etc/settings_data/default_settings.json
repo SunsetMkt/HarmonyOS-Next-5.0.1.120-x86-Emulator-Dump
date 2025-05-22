@@ -1,0 +1,336 @@
+{
+  "settings": [
+    {
+      "name": "settings.push.sleep_notification_enable",
+      "value": "0"
+    },
+    {
+      "name": "settings.power.smart_mode_status",
+      "value": "600"
+    },
+    {
+      "name": "settings.audio.ringtone",
+      "value": "5"
+    },
+    {
+      "name": "settings.audio.media",
+      "value": "5"
+    },
+    {
+      "name": "settings.audio.voicecall",
+      "value": "5"
+    },
+    {
+      "name": "settings.display.navigationbar_status",
+      "value": "1"
+    },
+    {
+      "name": "cellular_data_enable",
+      "value": "1"
+    },
+    {
+      "name": "settings.display.auto_screen_brightness",
+      "value": "1"
+    },
+    {
+      "name": "ota_disable_automatic_update",
+      "value": "1"
+    },
+    {
+      "name": "POWER_KEY_DOUBLE_CLICK_FOR_WALLET",
+      "value": "true"
+    },
+    {
+      "name": "item_wakeup_gaze_switch",
+      "value": "1"
+    },
+    {
+      "name": "settings.collaboration.multi_device_collaboration_service_switch",
+      "value": "1"
+    },
+    {
+      "name": "settings.camera.mute_persist",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_update_intell_identify_library",
+      "value": "2"
+    },
+    {
+      "name": "spamshield_blocking_notify",
+      "value": "1"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_all",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_stranger",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_unknown",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_ring_once",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_harass",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_scam",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_advert",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_switch_estate",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_phone_threshold_harass",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim1_phone_threshold_scam",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim1_phone_threshold_advert",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim1_phone_threshold_estate",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim1_sms_switch_intell_spam",
+      "value": "1"
+    },
+    {
+      "name": "spamshield_sim1_sms_switch_stranger",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_sms_switch_ads",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_all",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_stranger",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_unknown",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_ring_once",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_harass",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_scam",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_advert",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_switch_estate",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_phone_threshold_harass",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim2_phone_threshold_scam",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim2_phone_threshold_advert",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim2_phone_threshold_estate",
+      "value": "50"
+    },
+    {
+      "name": "spamshield_sim2_sms_switch_intell_spam",
+      "value": "1"
+    },
+    {
+      "name": "spamshield_sim2_sms_switch_stranger",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_sms_switch_ads",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_web_urlchecking",
+      "value": "1"
+    },
+    {
+      "name": "spamshield_available_call_reminder",
+      "value": "3"
+    },
+    {
+      "name": "spamshield_available_sms_reminder",
+      "value": "1"
+    },
+    {
+      "name": "spamshield_sent_call_reminder",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sent_sms_reminder",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_last_reminder_time",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_reminder_period",
+      "value": "3"
+    },
+    {
+      "name": "spamshield_sim1_call_rule_modified",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_call_rule_modified",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim1_sms_rule_modified",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_sim2_sms_rule_modified",
+      "value": "0"
+    },
+    {
+      "name": "spamshield_call_first_date_during",
+      "value": "3"
+    },
+    {
+      "name": "spamshield_call_first_record_time",
+      "value": "3"
+    },
+    {
+      "name": "spamshield_call_second_date_during",
+      "value": "7"
+    },
+    {
+      "name": "spamshield_call_second_record_time",
+      "value": "5"
+    },
+    {
+      "name": "spamshield_sms_first_date_during",
+      "value": "3"
+    },
+    {
+      "name": "spamshield_sms_first_record_time",
+      "value": "3"
+    },
+    {
+      "name": "spamshield_sms_second_date_during",
+      "value": "7"
+    },
+    {
+      "name": "spamshield_sms_second_record_time",
+      "value": "5"
+    },
+    {
+      "name": "settings.display.screen_off_timeout",
+      "value": "30000"
+    },
+    {
+      "name": "physic_navi_haptic_feedback_enabled",
+      "value": "1"
+    },
+    {
+      "name": "asw_ui_state",
+      "value": "0"
+    },
+    {
+      "name": "custom_charge_ui_state",
+      "value": "1"
+    },
+    {
+      "name": "touch_disable_mode",
+      "value": "1"
+    },
+    {
+      "key": "single_hand_switch",
+      "value": "on"
+    }
+  ],
+  "user": [
+    {
+      "name": "video_ringback_tone_settings",
+      "value": "1"
+    },
+    {
+      "name": "video_ringtone_switch_status",
+      "value": "show"
+    },
+    {
+      "name": "font_scale",
+      "value": "1"
+    },
+    {
+      "name": "font_weight_scale",
+      "value": "1"
+    },
+    {
+      "name": "multi_dock_status",
+      "value": "true"
+    },
+    {
+      "name": "auto_start_pip_status",
+      "value": "true"
+    },
+    {
+      "name": "drag_drop_interact",
+      "value": "1"
+    },
+    {
+      "name": "lockscreen_sounds_enabled",
+      "value": "1"
+    }
+  ],
+  "userSecure": [
+    {
+      "name": "ui_night_mode",
+      "value": "1"
+    },
+    {
+      "name": "passwordvault_cloudsync",
+      "value": "close"
+    },
+    {
+      "name": "autofill_service",
+      "value": "com.huawei.hmos.passwordvault/entry/AutoFillAbility"
+    },
+    {
+      "name": "Continue_Switch_Status",
+      "value": "1"
+    }
+  ]
+}

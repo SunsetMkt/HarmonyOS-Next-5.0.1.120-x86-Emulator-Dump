@@ -1,0 +1,42 @@
+[
+  {
+    "sceneType": "0,2",
+    "sourceType": 0,
+    "sourceAbilityName": "com.huawei.systemmanager.mainscreen.MainScreenActivity",
+    "targetBundleName": "com.huawei.hmos.systemmanagerform",
+    "targetCardName": "shortCutCard",
+    "targetCardUnique": 2
+  },
+  {
+    "sceneType": "0,2",
+    "sourceType": 7,
+    "sourceAbilityName": "com.huawei.systemmanager.mainscreen.MainScreenActivity",
+    "targetBundleName": "com.huawei.hmos.systemmanagerform",
+    "targetCardName": "shortCutCard",
+    "targetCardUnique": 2
+  },
+  {
+    "sceneType": "0,2",
+    "sourceType": 9,
+    "sourceBundleName": "com.huawei.ohos.systemmanager",
+    "sourceModuleName": "facard",
+    "sourceAbilityName": "com.huawei.ohos.systemmanager.FormAbility",
+    "sourceFormName": "card_one_touch_optimization_horizontal",
+    "sourceFormDimension": 1,
+    "targetBundleName": "com.huawei.hmos.systemmanagerform",
+    "targetCardName": "shortCutCard",
+    "targetCardUnique": 2
+  },
+  {
+    "sceneType": "0,2",
+    "sourceType": 9,
+    "sourceBundleName": "com.huawei.ohos.systemmanager",
+    "sourceModuleName": "facard",
+    "sourceAbilityName": "com.huawei.ohos.systemmanager.FormAbility",
+    "sourceFormName": "card_one_touch_optimization",
+    "sourceFormDimension": 2,
+    "targetBundleName": "com.huawei.hmos.systemmanagerform",
+    "targetCardName": "shortCutCard",
+    "targetCardUnique": 2
+  }
+]

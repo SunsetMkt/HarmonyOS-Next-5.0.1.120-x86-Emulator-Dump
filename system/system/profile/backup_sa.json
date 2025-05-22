@@ -1,0 +1,27 @@
+{
+    "process": "backup_sa",
+    "systemability": [
+        {
+            "name": 5203,
+            "libpath": "libbackup_sa.z.so",
+            "run-on-create": false,
+            "auto-restart": true,
+            "distributed": false,
+            "dump_level": 1,
+            "start-on-demand": {
+                "commonevent": [
+                    {
+                        "name": "usual.event.USER_UNLOCKED",
+                        "conditions": [
+                            {
+                                "eventId": "param",
+                                "name": "persist.backupservice.workstatus",
+                                "value": "true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

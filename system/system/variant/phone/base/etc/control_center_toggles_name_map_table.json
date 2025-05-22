@@ -1,0 +1,86 @@
+[
+  {
+    "sound": "ring_mode"
+  },
+  {
+    "rotation": "auto_rotate"
+  },
+  {
+    "hotspot": "hotspot"
+  },
+  {
+    "data": "mobile_data"
+  },
+  {
+    "hishare": "huawei_share"
+  },
+  {
+    "airsharing": "HuaweiCastToggle"
+  },
+  {
+    "location": "location"
+  },
+  {
+    "screenshot": "toggle_screenshot"
+  },
+  {
+    "recorder": "toggle_screen_recorder"
+  },
+  {
+    "nfc": "nfc"
+  },
+  {
+    "airplane": "air_plane"
+  },
+  {
+    "dark": "dark_mode"
+  },
+  {
+    "flashlight": "flashlight"
+  },
+  {
+    "eyecomfort": "eye_comfort"
+  },
+  {
+    "custom(com.huawei.distributedpasteboard/com.huawei.dragdrop.service.DragDropTileService)": "super_hub"
+  },
+  {
+    "scanner": "toggle_scanner"
+  },
+  {
+    "privacy": "super_privacy"
+  },
+  {
+    "superpower": "power_save"
+  },
+  {
+    "starflash": "near_link"
+  },
+  {
+    "soundsetting": "sound"
+  },
+  {
+    "custom(com.huawei.soundrecorder/.QuickSettingService)": "sound_recorder"
+  },
+  {
+    "ebook": "ebook"
+  },
+  {
+    "custom(com.huawei.calculator/.quicksetting.QuickSettingService)": "calculator"
+  },
+  {
+    "custom(com.huawei.deskclock/com.android.deskclock.timer.QuickSettingService)": "clock_timer"
+  },
+  {
+    "custom(com.huawei.android.remotecontroller/.wrapper.MyQsTitleService)": "remote_control"
+  },
+  {
+    "hwcamera": "camera_open"
+  },
+  {
+    "custom(com.huawei.audioaccessorymanager/.notificationbroadcast.service.NbQuickSettingService)": "quick_remind"
+  },
+  {
+    "custom(com.huawei.systemmanager/.power.service.WirelessReverseChargeTileService)": "wltx"
+  }
+]

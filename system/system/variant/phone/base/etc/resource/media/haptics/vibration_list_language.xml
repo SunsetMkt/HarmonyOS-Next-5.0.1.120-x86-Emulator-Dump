@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VibrationList>
+  <Language type="zh-Hans">
+    <vibrtion resource_name="Classic" title="标准"/>
+    <vibrtion resource_name="Horn" title="鸣笛"/>
+    <vibrtion resource_name="Twinkle" title="闪烁"/>
+    <vibrtion resource_name="Tick-tock" title="滴答"/>
+    <vibrtion resource_name="Minuet" title="舞步"/>
+    <vibrtion resource_name="Knock" title="敲门"/>
+    <vibrtion resource_name="Woodpecker" title="啄木鸟"/>
+    <vibrtion resource_name="Emergency" title="紧急"/>
+  </Language>
+  <Language type="en-Latn-US">
+    <vibrtion resource_name="Classic" title="Classic"/>
+    <vibrtion resource_name="Horn" title="Horn"/>
+    <vibrtion resource_name="Twinkle" title="Twinkle"/>
+    <vibrtion resource_name="Tick-tock" title="Tick-tock"/>
+    <vibrtion resource_name="Minuet" title="Minuet"/>
+    <vibrtion resource_name="Knock" title="Knock"/>
+    <vibrtion resource_name="Woodpecker" title="Woodpecker"/>
+    <vibrtion resource_name="Emergency" title="Emergency"/>
+  </Language>
+</VibrationList>

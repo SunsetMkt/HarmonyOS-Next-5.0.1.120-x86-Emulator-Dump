@@ -1,0 +1,8 @@
+{
+    "domains": [
+        {
+            "domain": "WINDOWMANAGER",
+            "include": ["NOTIFY_FOLD_STATE_CHANGE", "VH_MODE", "FOCUS_WINDOW"]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "trs_ip":"natservice-drcn.platform.dbankcloud.cn",
+    "trs_port":443,
+    "dns_ip_one":"114.114.114.114",
+    "dns_ip_two":"8.8.8.8"
+}

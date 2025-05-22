@@ -1,0 +1,53 @@
+{
+    "process": "d-bms",
+    "systemability": [
+        {
+            "name": 65946,
+            "libpath": "libdbmsi.z.so",
+            "run-on-create": false,
+            "distributed": true,
+            "depend_time_out": 60000,
+            "bootphase": "CoreStartPhase",
+            "dump_level": 1,
+            "start-on-demand": {
+                "deviceonline": [
+                    {
+                        "name": "deviceonline",
+                        "value": "on"
+                    }
+                ]
+            },
+            "stop-on-demand": {
+                "deviceonline": [
+                    {
+                        "name": "deviceonline",
+                        "value": "off"
+                    }
+                ]
+            }
+        },
+        {
+            "name": 402,
+            "libpath": "libdbms.z.so",
+            "run-on-create": false,
+            "distributed": true,
+            "dump_level": 1,
+            "start-on-demand": {
+                "deviceonline": [
+                    {
+                        "name": "deviceonline",
+                        "value": "on"
+                    }
+                ]
+            },
+            "stop-on-demand": {
+                "deviceonline": [
+                    {
+                        "name": "deviceonline",
+                        "value": "off"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+persist.kernel.bundle_name.clouddrive = dfs:user_data_rw:0640
+persist.kernel.bundle_name.photos = dfs:user_data_rw:0640
+persist.kernel.bundle_name.filemanager = dfs:dfs:0640

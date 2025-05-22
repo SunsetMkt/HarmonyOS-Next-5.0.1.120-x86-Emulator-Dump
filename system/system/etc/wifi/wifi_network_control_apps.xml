@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Copyright (C) 2023-2023 Huawei Device Co., Ltd.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+/ -->
+<NetworkControlAPP>
+	<KeyAppForegroundList packageName="com.tencent.wechat"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.tencent.mqq"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.sina.weibo.stage"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.taobao.taobao4hmos"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.jd.hm.mall"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.guandan.hap"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.xunmeng.pinduoduo.hos"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.chinarailway.ticketingHM"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.alipay.mobile.client"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.sdu.didi.hmos.psnger"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.sdu.didi.gsui.hmos"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.ss.hm.article.news"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.tencent.hm.news"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.ss.hm.ugc.aweme"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.kuaishou.hmapp"></KeyAppForegroundList>
+	<KeyAppForegroundList packageName="com.xingin.xhs_hos"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.chinamobile.cmcc"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.tencent.tmgp.codty.hw"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.tencent.qqgame.xq.hw"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.tencent.peng.hw"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.qqgame.happymj.huawei"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.shenlan.m.reverse1999.hm"></KeyAppForegroundList>
+    <KeyAppForegroundList packageName="com.feiyu.luobo4.hm.huawei"></KeyAppForegroundList>
+    <KeyBackgroundLimitListApp packageName="com.tencent.tmgp.pubgmhd.hw"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.tencent.lolm"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.tencent.tmgp.projectg.hw"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.miHoYo.Yuanshen"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.tencent.tmgp.sgamece.hw"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.huawei.hmos.clouddrive"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.xunlei.thunder"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.qiyi.video.hmy"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.tencent.videohm"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.youku.next"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.baidu.netdisk.hmos"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.huawei.hmsapp.himovie"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.huawei.hiviewtunnel"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.huawei.hilink.framework"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.baidu.baiduapp"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.huawei.hmos.betaclub"></KeyBackgroundLimitListApp>
+    <KeyBackgroundLimitListApp packageName="com.huawei.hmsapp.appgallery"></KeyBackgroundLimitListApp>
+	<KeyBackgroundLimitListApp packageName="com.huawei.hmos.hiviewx"></KeyBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.tencent.tmgp.pubgmhd.hw"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.tencent.lolm"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.tencent.tmgp.projectg.hw"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.miHoYo.Yuanshen"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.tencent.tmgp.sgamece.hw"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.huawei.hmos.clouddrive"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.xunlei.thunder"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.qiyi.video.hmy"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.tencent.videohm"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.youku.next"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.baidu.netdisk.hmos"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.huawei.hmsapp.himovie"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.huawei.hiviewtunnel"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.huawei.hilink.framework"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.baidu.baiduapp"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.huawei.hmos.betaclub"></GameBackgroundLimitListApp>
+    <GameBackgroundLimitListApp packageName="com.huawei.hmsapp.appgallery"></GameBackgroundLimitListApp>
+	<GameBackgroundLimitListApp packageName="com.huawei.hmos.hiviewx"></GameBackgroundLimitListApp>
+    <AppLiveStream packageName="com.tencent.wechat"></AppLiveStream>
+    <AppLiveStream packageName="com.ss.hm.ugc.aweme"></AppLiveStream>
+    <AppLiveStream packageName="com.lebo.cast.source"></AppLiveStream>
+    <AsyncDelayTime delayTime="1000"></AsyncDelayTime>
+</NetworkControlAPP>

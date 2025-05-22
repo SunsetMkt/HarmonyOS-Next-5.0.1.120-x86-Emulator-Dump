@@ -1,0 +1,16 @@
+{
+  "DP_Callers": [
+    {
+      "name": "SwitchStatus_Key_Mouse_Edge_Crossing",
+      "SwitchStatus": "0"
+    },
+    {
+      "name": "SwitchStatus_Key_Distributed_Pasteboard",
+      "SwitchStatus": "1"
+    },
+    {
+      "name": "SwitchStatus_DcShareSwitch",
+      "SwitchStatus": "0"
+    }
+  ]
+}
