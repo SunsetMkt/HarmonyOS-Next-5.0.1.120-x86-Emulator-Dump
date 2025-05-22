@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "version": "1.0.0"
+  },
+  "data": {
+    "apiVersion": "17",
+    "displayName": "System-image-phone",
+    "path": "system-image,HarmonyOS-5.0.5,phone_x86",
+    "platformVersion": "5.0.5",
+    "releaseType": "Release",
+    "version": "5.0.1.120",
+    "guestVersion": "HarmonyOS 5.0.1.120(SP3)",
+    "stage": "Release"
+  }
+}
