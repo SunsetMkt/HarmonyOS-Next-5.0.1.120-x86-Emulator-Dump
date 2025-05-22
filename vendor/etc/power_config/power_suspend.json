@@ -1,0 +1,14 @@
+{
+    "powerkey": {
+        "action": 0,
+        "delayMs": 0
+    },
+    "lid": {
+        "action": 0,
+        "delayMs": 0
+    },
+    "switch": {
+        "action": 0,
+        "delayMs": 0
+    }
+}
