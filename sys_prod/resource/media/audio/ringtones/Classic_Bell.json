@@ -1,0 +1,61 @@
+{
+  "MetaData": {
+    "Create": "2024-05-31",
+    "Description": "haptic.ringtone.Classic_Bell",
+    "Version": 1.0,
+    "ChannelNumber": 1
+  },
+  "Channels": [
+    {
+      "Parameters": {
+        "Index": 0
+      },
+      "Pattern": [
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 28,
+            "Duration": 400,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 710,
+            "Duration": 600,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 2345,
+            "Duration": 400,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 3056,
+            "Duration": 600,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

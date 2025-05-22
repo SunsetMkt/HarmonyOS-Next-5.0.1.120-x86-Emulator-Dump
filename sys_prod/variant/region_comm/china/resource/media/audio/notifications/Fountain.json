@@ -1,0 +1,38 @@
+{
+  "MetaData": {
+    "Create": "2024-05-31",
+    "Description": "haptic.notice.Fountain",
+    "Version": 1.0,
+    "ChannelNumber": 1
+  },
+  "Channels": [
+    {
+      "Parameters": {
+        "Index": 0
+      },
+      "Pattern": [
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 53,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 172,
+            "Duration": 140,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

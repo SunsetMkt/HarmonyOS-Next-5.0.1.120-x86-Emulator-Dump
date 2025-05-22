@@ -1,0 +1,48 @@
+{
+  "MetaData": {
+    "Create": "2024-05-31",
+    "Description": "haptic.notice.Emerging",
+    "Version": 1.0,
+    "ChannelNumber": 1
+  },
+  "Channels": [
+    {
+      "Parameters": {
+        "Index": 0
+      },
+      "Pattern": [
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 75,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 393,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 717,
+            "Duration": 220,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

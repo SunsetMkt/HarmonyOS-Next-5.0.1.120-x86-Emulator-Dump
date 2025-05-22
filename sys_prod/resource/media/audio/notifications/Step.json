@@ -1,0 +1,38 @@
+{
+  "MetaData": {
+    "Create": "2024-05-31",
+    "Description": "haptic.notice.Step",
+    "Version": 1.0,
+    "ChannelNumber": 1
+  },
+  "Channels": [
+    {
+      "Parameters": {
+        "Index": 0
+      },
+      "Pattern": [
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 33,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 120,
+            "Duration": 180,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

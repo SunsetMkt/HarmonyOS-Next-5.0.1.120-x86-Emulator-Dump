@@ -1,0 +1,98 @@
+{
+  "MetaData": {
+    "Create": "2024-05-31",
+    "Description": "haptic.notice.Leaf",
+    "Version": 1.0,
+    "ChannelNumber": 1
+  },
+  "Channels": [
+    {
+      "Parameters": {
+        "Index": 0
+      },
+      "Pattern": [
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 56,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 295,
+            "Parameters": {
+              "Intensity": 80,
+              "Frequency": 55
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "continuous",
+            "StartTime": 533,
+            "Duration": 80,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 55
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 770,
+            "Parameters": {
+              "Intensity": 80,
+              "Frequency": 55
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 1009,
+            "Parameters": {
+              "Intensity": 100,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 1131,
+            "Parameters": {
+              "Intensity": 60,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 1250,
+            "Parameters": {
+              "Intensity": 40,
+              "Frequency": 60
+            }
+          }
+        },
+        {
+          "Event": {
+            "Type": "transient",
+            "StartTime": 1367,
+            "Parameters": {
+              "Intensity": 40,
+              "Frequency": 60
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

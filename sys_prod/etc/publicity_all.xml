@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packageList>
+	<packageInfo package="com.huawei.hmsapp.hiai" feature="Huawei HwHiAIEngine" author="华为终端有限公司" label="com.huawei.hmsapp.hiai">
+	</packageInfo>
+	<packageInfo package="ohos.global.systemres.overlay" lable="SystemResourcesOverlay" feature="基于OH开源原生系统资源，提供闭源差分替换资源。" author="华为终端有限公司。" label="ohos.global.systemres.overlay">
+	</packageInfo>
+</packageList>

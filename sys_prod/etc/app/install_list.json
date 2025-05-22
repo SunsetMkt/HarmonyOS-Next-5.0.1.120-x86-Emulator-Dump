@@ -1,0 +1,8 @@
+{
+	"install_list":[
+		{
+			"app_dir":"/sys_prod/app/HwAIEngine",
+			"removable":false
+		}
+	]
+}

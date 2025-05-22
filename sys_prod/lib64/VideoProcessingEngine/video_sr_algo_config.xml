@@ -1,0 +1,36 @@
+<?xml version="2.0" encoding="gb2312"?>
+<!--/*$$$!!Warning: Huawei key information asset. No spread without permission.$$$*/-->
+<!--/*CODEMARK:RKeR1B8WMAfemkt1tTDGp4eOEddgxKn4NOPmdw0w+6Q3n1pxgDEX+kGBiRV20e1NKuLwOh60qWwx
+7DOUvTqsDqUlaM8as2eB+0ABHKBQLqb/FKi//5wC4S0YX7cVP/6DCsb5PPmI6tM4fICFjRv+qEdZ
+/Zhh6BOQnuadQnxMXsvAsdmFEjyjnrYBREYQ7AUkFA2qrapa4AQt4SZj+P+BZwQaJe3y5vJ/rq7X
+4oBvmtA3JYj3abOQlH75T47+C0j7#*/-->
+<!--/*$$$!!Warning: Deleting or modifying the preceding information is prohibited.$$$*/-->
+<Config>
+	<version>
+		<SO_ID>300</SO_ID>
+	</version>
+	<subversion>
+		<XML_ID>01</XML_ID>
+		<XML_DATE>20231214</XML_DATE>
+	</subversion>
+	<AISR_2_0>
+		<iModelNum>4</iModelNum>
+		<!-- 需要写在最开始-->
+		<iModelHeightLevel_0>720</iModelHeightLevel_0>
+		<iModelWidthLevel_0>1280</iModelWidthLevel_0>
+		<iModelHeightLevel_1>1024</iModelHeightLevel_1>
+		<iModelWidthLevel_1>576</iModelWidthLevel_1>
+		<iModelHeightLevel_2>1280</iModelHeightLevel_2>
+		<iModelWidthLevel_2>768</iModelWidthLevel_2>
+		<iModelHeightLevel_3>960</iModelHeightLevel_3>
+		<iModelWidthLevel_3>576</iModelWidthLevel_3>
+		<iModelFreq_0>1</iModelFreq_0>
+		<iModelFreq_1>1</iModelFreq_1>
+		<iModelFreq_2>1</iModelFreq_2>
+		<iModelFreq_3>1</iModelFreq_3>
+		<sModelName_0>VideoSR_quant_720x1280.omc</sModelName_0>
+		<sModelName_1>VideoSR_quant_1024x576.omc</sModelName_1>
+		<sModelName_2>VideoSR_quant_1280x768.omc</sModelName_2>
+		<sModelName_3>VideoSR_quant_960x576.omc</sModelName_3>
+	</AISR_2_0>
+</Config>
